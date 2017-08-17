@@ -11,3 +11,47 @@ Honors Program | College of Literature, Science and Arts
 
 Major Concentration | Statistics (Honors)
 
+Relevant Statistics Courses:
+
+Stats 406: Statistical Computing
+Stats 415: Data Mining & Statistical Learning
+Stats 426: Theoretical Statistics
+
+Relevant Mathematics Courses:
+
+Math 215: Multivariate Calculus 
+Math 217: Linear Algebra (Theory)
+Math 451: Real Analysis (Calculus Theory)
+Math 425: Introduction to Probability
+Math 525: Probability Theory
+
+
+Relevant Computer Science Courses:
+
+EECS 183: Elementary Programming Concepts
+EECS 280: Programming & Data Structures
+SI 206: Data Oriented Programming
+SI 330: Data Manipulation
+
+
+
+Scholarships and Awards
+
+Simon Mandlebaum Scholarship '16
+MCSP Faculty and Staff Community Scholarship '16
+James B. Angell Scholar '17
+LS&A Internship Scholar '17
+University Honors '14 '15 '16 '17
+
+Current Extra-Curriculars
+
+Undergraduate Research Assistant | Statistical Reinforcement Learning Lab
+Instructional Aide | SI 506: Programming I
+Executive Board Member | Undergraduate Students of Statistics 
+Team Member | Michigan Men's Club Lacrosse Team
+Previous Extra-Curriculars
+
+Writer for Michigan Lacrosse | Michigan Daily (Sports)
+Peer Mentor | Michigan Community Scholars Program 
+Recreation Assistant | Michigan Billiards, Michigan Union
+Course Assistant | Stats 250: Statistics and Data Analysis

@@ -10,19 +10,19 @@ My major concentration is in Statistics. You may explore my academic curriculum 
 
 ## Current Research
 
-I am a member of the [Data Science for Dynamic Intervention Decision-making]() Lab, simply D-cubed Lab.
+- [[Aug 2017 - Present]()] I am a member of the [Data Science for Dynamic Intervention Decision-making]() Lab, simply D-cubed Lab.
 
 More details to come soon
 
 ## Previously
 
-- During my junior year I was a member of the Statistical Reinforcement Learning Lab (SRLL) at the University of Michigan. I worked with then second year PhD student, [Hyesun Yoo](), while attempting to develop causal-inference methods for binary outcomes along with sequences of treatments for mobile health. My work was supervised by [Dr. Susan A. Murphy]() of the Department of Statistics. Since then, SRLL has moved to a different institution but SRLL collaborates with the D-cubed Lab.
+- [[Jan 2017 - Sep 2017]()] I was a member of the Statistical Reinforcement Learning Lab (SRLL) at the University of Michigan. I worked with then second year PhD student, [Hyesun Yoo](), while attempting to develop causal-inference methods for binary outcomes along with sequences of treatments for mobile health. My work was supervised by [Dr. Susan A. Murphy]() of the Department of Statistics. Since then, SRLL has moved to a different institution but SRLL collaborates with the D-cubed Lab.
 
 
-- During the summer between my junior and senior year, I was a member of the Big Data Summer Institute at the University of Michigan where I worked very closely with [Dr. Phil Boonstra](), Dr. Matt Zawistowski and Dr. Zhenke Wu from the Department of Biostatistics. My team comprised of two other students, Deesha Bhaumik from Johns Hopkins University and Christian Erickson from Hope College.
+- [[June 2017 - July 2017]()] I was a member of the Big Data Summer Institute at the University of Michigan where I worked very closely with [Dr. Phil Boonstra](http://www-personal.umich.edu/~philb/), Dr. Matt Zawistowski and [Dr. Zhenke Wu](http://zhenkewu.com/) from the Department of Biostatistics. My team comprised of two other students: Deesha Bhaumik from Johns Hopkins University and Christian Erickson from Hope College.
 
 
-- During the summer between my sophomore and junior year, I worked with Robert F. Schoeni from the Institute for Social Research. My  
+- [[May 2016 - August 2016]()]] During the summer between my sophomore and junior year, I worked with Robert F. Schoeni from the Institute for Social Research. My  
 
 
 
