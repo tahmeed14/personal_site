@@ -2,11 +2,20 @@
 title: "Welcome to my website!"
 ---
 
-My name is Tahmeed Tureen, I am a fourth year undergraduate student at the University of Michigan - Ann Arbor. 
+"Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure. It is our light, not our darkness that most frightens us... " - Marianne Williamson
 
 
-My major concentration is in Statistics. You may explore my academic curriculum by visiting my Education page.
+A Synopsis of Sorts...
 
+- Senior at the University of Michigan - Ann Arbor
+- Statistics Major, yeah yeah I'm bad at Math
+- Bangladesh -> Japan -> California -> Michigan -> ?
+- Chelsea F.C. fan
+- Michigan Club Lacrosse team member
+- Data Science is tight
+
+
+Data science is something that I was instantly hooked on after I spent a summer working with [Dr. Robert F. Schoeni]() doing statistical analysis for one of his research projects.
 
 ## Current Research
 
@@ -14,9 +23,9 @@ My major concentration is in Statistics. You may explore my academic curriculum 
 
 More details to come soon
 
-## Previously
+## Previously...
 
-- [[Jan 2017 - Sep 2017]()] I was a member of the Statistical Reinforcement Learning Lab (SRLL) at the University of Michigan. I worked with then second year PhD student, [Hyesun Yoo](), while attempting to develop causal-inference methods for binary outcomes along with sequences of treatments for mobile health. My work was supervised by [Dr. Susan A. Murphy]() of the Department of Statistics. Since then, SRLL has moved to a different institution but SRLL collaborates with the D-cubed Lab.
+- [[Jan 2017 - Sep 2017]()] I was a member of the Statistical Reinforcement Learning Lab (SRLL) at the University of Michigan. I worked with then second year PhD student, [Hyesun Yoo]() and was supervised by [Dr. Susan A. Murphy]() of the Department of Statistics. Since then, SRLL has moved to a different institution but SRLL collaborates with my current research lab.
 
 
 - [[June 2017 - July 2017]()] I was a member of the Big Data Summer Institute at the University of Michigan where I worked very closely with [Dr. Phil Boonstra](http://www-personal.umich.edu/~philb/), Dr. Matt Zawistowski and [Dr. Zhenke Wu](http://zhenkewu.com/) from the Department of Biostatistics. My team comprised of two other students: Deesha Bhaumik from Johns Hopkins University and Christian Erickson from Hope College.
