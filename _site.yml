@@ -1,0 +1,13 @@
+name: "Tahmeed-Tureen"
+output_dir: "."
+navbar:
+  title: "Tahmeed Tureen"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+output:
+  html_document:
+    theme: readable
+    #css: style.css

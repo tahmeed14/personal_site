@@ -1,0 +1,29 @@
+---
+title: "Welcome to my website!"
+---
+
+My name is Tahmeed Tureen, I am a fourth year undergraduate student at the University of Michigan - Ann Arbor. 
+
+
+My major concentration is in Statistics. You may explore my academic curriculum by visiting my Education page.
+
+
+## Current Research
+
+I am a member of the [Data Science for Dynamic Intervention Decision-making]() Lab, simply D-cubed Lab.
+
+More details to come soon
+
+## Previously
+
+- During my junior year I was a member of the Statistical Reinforcement Learning Lab (SRLL) at the University of Michigan. I worked with then second year PhD student, [Hyesun Yoo](), while attempting to develop causal-inference methods for binary outcomes along with sequences of treatments for mobile health. My work was supervised by [Dr. Susan A. Murphy]() of the Department of Statistics. Since then, SRLL has moved to a different institution but SRLL collaborates with the D-cubed Lab.
+
+
+- During the summer between my junior and senior year, I was a member of the Big Data Summer Institute at the University of Michigan where I worked very closely with [Dr. Phil Boonstra](), Dr. Matt Zawistowski and Dr. Zhenke Wu from the Department of Biostatistics. My team comprised of two other students, Deesha Bhaumik from Johns Hopkins University and Christian Erickson from Hope College.
+
+
+- During the summer between my sophomore and junior year, I worked with Robert F. Schoeni from the Institute for Social Research. My  
+
+
+
+![A Picture of me presenting at the Biostats Symposium on Big Data at the University of Michigan](bdsi.jpg)
