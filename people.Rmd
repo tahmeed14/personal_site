@@ -2,19 +2,20 @@
 title: "The People"
 ---
 
-It's pretty important to have influential people in our lives. Much like others, I've had many people in my life who have in the past or still inspire and motivate me in my pursuit of statistics and data science as my passion. 
+It's pretty important to have influential people in our lives. Like a lot of people, I've had mentors who have inspired me, motivated me, or have pushed me to continue pursuing my interest in data science.
+
+
+All of these people owed me nothing and has helped me without expecting nothing in return.
 
 
 I dedicate this page to them
 
 
 - Mom & Dad
-- Robert Schoeni
-- Susan Murphy
+- Dr. Bob Schoeni
+- Dr. Susan Murphy
 - Hyesun Yoo
-- Naisyin Wang
-- Phil Boonstra
-- Bhramar Mukherjee
+- Dr. Naisyin Wang
 
 
 Also shoutouts to my friends who reproach me for doing so much school, you know who you are...
