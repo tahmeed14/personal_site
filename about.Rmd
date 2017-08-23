@@ -4,4 +4,26 @@ title: "Get to Know Me"
 
 ## Education
 
-Under construction... YIKES!
+University of Michigan [April 2018]
+
+BS Candidate, Statistics
+Honors Program, College of Literature, Science, & Arts
+
+
+## Campus Involvement
+
+Executive Board | Michigan Undergraduate Students of Statistics (MUGSS)
+Team Member | University of Michigan Club Lacrosse
+
+
+## Research Labs
+
+Data Science for Dynamic Decision Making Lab (D-cubed Lab) [August 2017 - Present]
+Statistical Reinforcement Learning Lab [Jan 2017 - Present] ** Relocated to Cambridge, MA
+
+
+## Teaching Experience
+
+Instructional Aide | SI 506: Programming [August 2017 - Present]
+Course Assistant | STATS 250: Introduction to Statistics & Data Analysis [Jan 2016 - May 2017]
+

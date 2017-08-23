@@ -7,15 +7,17 @@ title: "Welcome to my website!"
 
 A Synopsis of Sorts...
 
-- Senior at the University of Michigan - Ann Arbor
-- Statistics Major, yeah yeah I'm bad at Math
+- Senior at the [University of Michigan - Ann Arbor](https://www.umich.edu/)
+- [Statistics Major](https://lsa.umich.edu/stats), yeah yeah I'm bad at Math
 - Bangladesh -> Japan -> California -> Michigan -> ?
-- Chelsea F.C. fan
-- Michigan Club Lacrosse team member
+- [Chelsea F.C.](https://www.chelseafc.com/) fan
+- [Michigan Club Lacrosse](https://www.michiganclublacrosse.com/) team member
 - Data Science is tight
 
 
 Data science is something that I was instantly hooked on after I spent a summer working with [Dr. Robert F. Schoeni]() doing statistical analysis for one of his research projects.
+
+
 
 ## Current Research
 
@@ -25,7 +27,7 @@ More details to come soon
 
 ## Previously...
 
-- [[Jan 2017 - Sep 2017]()] I was a member of the Statistical Reinforcement Learning Lab (SRLL) at the University of Michigan. I worked with then second year PhD student, [Hyesun Yoo]() and was supervised by [Dr. Susan A. Murphy]() of the Department of Statistics. Since then, SRLL has moved to a different institution but SRLL collaborates with my current research lab.
+- [[Jan 2017 - Sep 2017]()] I was a member of the Statistical Reinforcement Learning Lab (SRLL) at the University of Michigan. I worked with then second year PhD student, [Hyesun Yoo](http://www-personal.umich.edu/~yoohs/), and was supervised by [Dr. Susan A. Murphy](https://dl.dropboxusercontent.com/u/16868661/index.html) of the Department of Statistics. Since then, SRLL has moved to a different institution but SRLL collaborates with my current research lab.
 
 
 - [[June 2017 - July 2017]()] I was a member of the Big Data Summer Institute at the University of Michigan where I worked very closely with [Dr. Phil Boonstra](http://www-personal.umich.edu/~philb/), Dr. Matt Zawistowski and [Dr. Zhenke Wu](http://zhenkewu.com/) from the Department of Biostatistics. My team comprised of two other students: Deesha Bhaumik from Johns Hopkins University and Christian Erickson from Hope College.
@@ -34,5 +36,6 @@ More details to come soon
 - [[May 2016 - August 2016]()]] During the summer between my sophomore and junior year, I worked with Robert F. Schoeni from the Institute for Social Research. My  
 
 
+Check out the [Research]() tab for more elaboration!
 
 ![A Picture of me presenting at the Biostats Symposium on Big Data at the University of Michigan](bdsi.jpg)
