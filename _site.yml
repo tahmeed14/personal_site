@@ -5,23 +5,23 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About My..."
+    - text: "About My"
       menu:
         - text: "Education"
           href: about.html
         - text: "Research"
           href: research.html
-    - text: "Find Me On..."
+    - text: "Find Me On"
       menu:
         - text: LinkedIn
           href: https://www.linkedin.com/in/tahmeed-tureen-79567376
         - text: GitHub
           href: https://github.com/tahmeed14
-    - text: "Research & Projects"
+    - text: "Research"
       href: research.html
     - text: "The People"
       href: people.html
 output:
   html_document:
-    theme: readable
+    theme: simplex
     #css: style.css
