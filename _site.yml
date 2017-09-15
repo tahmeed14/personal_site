@@ -23,5 +23,5 @@ navbar:
       href: people.html
 output:
   html_document:
-    theme: simplex
+    theme: yeti
     #css: style.css
