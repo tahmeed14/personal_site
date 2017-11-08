@@ -1,0 +1,80 @@
+---
+title: "Coding Class Projects"
+---
+![](codephoto.png)
+
+# **Honor Code Warning!** 
+
+*Code for SOME of these projects are readily available on my GitHub repository. However, if you are a current student in any of these courses and you copy my code that is an immediate violation of the Honor Code and you may be subject to severe punishment from the University of Michigan honor council. I have received permission to make most of my code files public with the except of EECS projects.*
+
+
+# **Python**
+
+
+## SI 206: Data-Oriented Programming
+
+- War: The Card Game [ [project description](), [code](), [readme]() ]
+
+- University of Michigan Faculty Directory & Stripping Twitter Data [ [project description](), [code]() ]
+
+- Stripping Twitter Data & Creating SQL Databases [ [project description](), [code]() ]
+
+- \* Beautiful National Parks: A Data Collection Project [ [project description](), [code](), [readme]() ]
+  
+  
+  
+## SI 330: Data Manipulation
+
+- Immigration Network/Node Visualization [ [project description](), [code]() ]
+
+- \* Valid Internet Access Filtration [ [project description](), [code]() ]
+  
+  
+  
+  
+# **C++**
+
+NOTE: Unfortunately, no code for the C++ projects can be shared due to the Engineering Honor Code at the University of Michigan. All of these project assignments were created by the EECS department at the University of Michigan.
+
+## EECS 183: Elementary Programming Concepts
+
+- Cupcakes: Recipe Cost Calculator [ [project description]() ]
+
+- Birthday Calculator [ [project description]() ]
+
+- oh hi: A logic game [ [project description](), [play the game](http://0hh1.com/) ]
+
+- Friend Harmony: A mock eHarmony [ [project description]() ]
+
+- SPACE INVADERS: A Classic Videogame [ [projection description](), [play the game](http://www.pacxon4u.com/space-invaders/) ]
+  
+  
+  
+## EECS 280: Programming & Introductory Data Structures
+
+- Statistics: A basic Statistics calculator [ [project description]() ]
+
+- Image Resizing: C-style programming to manipulate images [ [project description]() ]
+
+- \* Euchre: C++ Style Program of the popular Michigan card game, euchre! [ [project description]() ]
+
+- Linked Lists & Stacks [ [currently unavailable]()]
+
+- Machine Learning: C++ Style ML [ [currently unavailable]() ]
+  
+  
+  
+  
+# **R**
+
+## Stats 415: Data Mining & Statistical Learning
+
+- Alcohol Consumption Classification for College Students [[project report](), [applied project report](), [code]()]
+
+
+
+
+
+Projects marked with a * are my favorite projects
+
+

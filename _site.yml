@@ -11,6 +11,8 @@ navbar:
           href: about.html
         - text: "Research"
           href: research.html
+        - text: "Coding Projects"
+          href: projects.html
     - text: "Find Me On"
       menu:
         - text: LinkedIn

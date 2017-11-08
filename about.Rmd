@@ -11,25 +11,44 @@ BS Candidate, Statistics
 Honors Program, College of Literature, Science, & Arts
 
 
-## Campus Involvement
-
-Executive Board | Michigan Undergraduate Students of Statistics (MUGSS)
-
-Team Member | University of Michigan Club Lacrosse
+.
+.
+.
 
 
-## Research Labs
-
-Data Science for Dynamic Decision Making Lab (D-cubed Lab) [August 2017 - Present]
-
-Statistical Reinforcement Learning Lab [Jan 2017 - Present] ** Relocated to Cambridge, MA
-
-Elaborate detail can be read [here](research.html)
+## Relevant Courses
 
 
-## Teaching Experience
+### Mathematics
 
-Instructional Aide | SI 506: Programming [August 2017 - Present]
+- Calculus Sequence [Calc AB, Math 116, Math 215]
+- Linear Algebra with Proofs [Math 217]
+- Probability [Math 425]
+- Real Analysis [Math 451]
 
-Course Assistant | STATS 250: Introduction to Statistics & Data Analysis [Jan 2016 - May 2017]
+
+### Statistics
+
+- Introductory Statistics & Data Analysis [Stats 250]
+- Theoretical Statistics [Stats 426]
+- Data Mining & Statistical Learning [Stats 415]
+- Computational Methods in Statistics & Data Science [Stats 406]
+
+
+### Computer Science
+
+- Elementary Concepts in Programming [EECS 183] ... in C++
+- Programming & Introductory Data Structures [EECS 280] ... in C++
+- Data-Oriented Programming [SI 206] ... in Python
+- Data Manipulation [SI 330] ... in Python
+
+.
+.
+.
+
+### [Research]()
+### [Teaching Experience]()
+### [Extra-Curricular Clubs]()
+
+
 
