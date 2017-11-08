@@ -5,7 +5,7 @@ title: "Coding Class Projects"
 
 # **Honor Code Warning!** 
 
-*Code for SOME of these projects are readily available on my GitHub repository. However, if you are a current student in any of these courses and you copy my code that is an immediate violation of the Honor Code and you may be subject to severe punishment from the University of Michigan honor council. I have received permission to make most of my code files public with the except of EECS projects.*
+*Code for SOME of these projects are readily available on my GitHub repository. However, if you are a current student in any of these courses and you copy my code that is an immediate violation of the Honor Code and you may be subject to severe punishment from the University of Michigan honor council. I have received permission to make most of my code files public with the exception of my EECS projects.*
 
 
 # **Python**
