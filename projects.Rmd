@@ -28,6 +28,8 @@ title: "Coding Class Projects"
 - Immigration Network/Node Visualization [ [project description](), [code]() ]
 
 - \* Valid Internet Access Filtration [ [project description](), [code]() ]
+
+- Top 50 Bigrams in Victor Hugo's Les Miserables [ [project description](), [code]() ]
   
   
   
@@ -42,11 +44,11 @@ NOTE: Unfortunately, no code for the C++ projects can be shared due to the Engin
 
 - Birthday Calculator [ [project description]() ]
 
-- oh hi: A logic game [ [project description](), [play the game](http://0hh1.com/) ]
+- oh hi: A logic game [ [project description](), [play the original game](http://0hh1.com/) ]
 
 - Friend Harmony: A mock eHarmony [ [project description]() ]
 
-- SPACE INVADERS: A Classic Videogame [ [projection description](), [play the game](http://www.pacxon4u.com/space-invaders/) ]
+- SPACE INVADERS: A Classic Videogame [ [projection description](), [play the original game](http://www.pacxon4u.com/space-invaders/) ]
   
   
   
@@ -56,7 +58,7 @@ NOTE: Unfortunately, no code for the C++ projects can be shared due to the Engin
 
 - Image Resizing: C-style programming to manipulate images [ [project description]() ]
 
-- \* Euchre: C++ Style Program of the popular Michigan card game, euchre! [ [project description]() ]
+- \* Euchre: C++ Style Program of the popular Michigan card game, euchre! [ [project description](), [play my version (coming soon)]() ]
 
 - Linked Lists & Stacks [ [currently unavailable]()]
 

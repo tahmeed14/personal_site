@@ -34,6 +34,9 @@ Honors Program, College of Literature, Science, & Arts
 - Data Mining & Statistical Learning [Stats 415]
 - Computational Methods in Statistics & Data Science [Stats 406]
 
+next semester
+- Bayesian Data Analysis [Stats 451], Applied Regression [Stats 413]
+
 
 ### Computer Science
 
