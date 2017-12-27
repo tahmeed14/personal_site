@@ -15,16 +15,6 @@ A Synopsis of Sorts...
 
 Data science is something that I was instantly hooked on after I spent a summer working with [Dr. Robert F. Schoeni](https://www.psc.isr.umich.edu/people/profile/356/Robert_F_Schoeni) doing statistical analysis for one of his research projects.
 
-
-
-## Current Research
-
-- [[Aug 2017 - Present]()] I am a member of the [Data Science for Dynamic Intervention Decision-making]() Lab, simply D-cubed Lab. I am supervised by [Dr. Inbal Nahum-Shani](http://www-personal.umich.edu/~inbal/)
-
-More details to come soon
-
-## Previously...
-
 - Check out the [Research](research.html) tab!
 
 ![@Biostats Symposium on Big Data at the University of Michigan](bdsi.jpg)

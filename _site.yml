@@ -13,6 +13,8 @@ navbar:
           href: research.html
         - text: "Coding Projects"
           href: projects.html
+        - text: "Teaching Experience"
+          href: teaching.html
     - text: "Find Me On"
       menu:
         - text: LinkedIn

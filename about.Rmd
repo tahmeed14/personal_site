@@ -49,7 +49,7 @@ next semester
 .
 .
 
-### [Research]()
+### [Research](research.html)
 ### [Teaching Experience]()
 ### [Extra-Curricular Clubs]()
 

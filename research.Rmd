@@ -1,11 +1,21 @@
-Currently Under Construction...
+.
+.
+.
 
 
-- [[Jan 2017 - Sep 2017]()] I was a member of the Statistical Reinforcement Learning Lab (SRLL) at the University of Michigan. I worked with then second year PhD student, [Hyesun Yoo](http://www-personal.umich.edu/~yoohs/), and was supervised by [Dr. Susan A. Murphy](https://dl.dropboxusercontent.com/u/16868661/index.html) of the Department of Statistics. Since then, SRLL has moved to a different institution but SRLL collaborates with my current research lab.
+[ **Sep 2017 - Current** ] I am currently an undergraduate member of the d3 Lab at the Institute for Social Research at the University of Michigan. I am working with [Jamie Yap], a Research Associate, and supervised by Dr. Inbal Nahum-Shani, Research Professor, of the Institute for Social Research.
+
+- More: soon
+
+[ **Jan 2017 - Sep 2017** ] I was a member of the Statistical Reinforcement Learning Lab (SRLL) at the University of Michigan. I worked with then second year PhD student, [Hyesun Yoo](http://www-personal.umich.edu/~yoohs/), and was supervised by [Dr. Susan A. Murphy](http://people.seas.harvard.edu/~samurphy/) of the Department of Statistics. Since then, SRLL has moved to a different institution but SRLL collaborates with my current research lab.
+
+- More: [MSSISS '17](https://sites.lsa.umich.edu/mssiss/past/mssiss-2017/),  [Poster](https://docs.google.com/a/umich.edu/viewer?a=v&pid=sites&srcid=dW1pY2guZWR1fHRhaG1lZWQtdHVyZWVufGd4Ojc4YzI3NzJlNzA3MTIxYzE), [Photo w/ Hyesun](https://da67918b-a-ab15346e-s-sites.googlegroups.com/a/umich.edu/tahmeed-tureen/home/research-experience/MSSISS%2017%20Photo%20with%20Hyesun%20%26%20Dr.%20GW%20Park.jpg?attachauth=ANoY7crrTnTg1Fcm8m7FSFSEnS0TsHC4WhmbrN3vLRaxMhBg3R0k40sgJgGv3Eqqadd9rWPT2XFEJBBZNKwoO4ca5WUmST-owXVa6EvnZtjmM30FPDizGFo_zYGFrDY5zJc287B_UL1w6yD_-kN8EjA8OUP8XTIgyv6PwCYFN0_qyOZmFo1fsuks2--XMKQb3k1El6PNY3nE5FgJwTuFKB01Wo_wJbvLq-EW-xExhgxr2wo_KYJd5CZ9lXpcBR8ljq22AqgkonMTSrLU1ZYqOqwbq4PWa138ARxCBMqVMRdPNMJ5gwfQcsg%3D&attredirects=0), [Photo w/ Dr. Murphy]()
 
 
-- [[June 2017 - July 2017]()] I was a member of the Big Data Summer Institute at the University of Michigan where I worked very closely with [Dr. Phil Boonstra](http://www-personal.umich.edu/~philb/), Dr. Matt Zawistowski and [Dr. Zhenke Wu](http://zhenkewu.com/) from the Department of Biostatistics. My team comprised of two other students: Deesha Bhaumik from Johns Hopkins University and Christian Erickson from Hope College.
+[ **June 2017 - July 2017** ] I was a member of the [Big Data Summer Institute](https://sph.umich.edu/bdsi/) at the University of Michigan where I worked very closely with [Dr. Phil Boonstra](http://www-personal.umich.edu/~philb/), Dr. Matt Zawistowski, and [Dr. Zhenke Wu](http://zhenkewu.com/) from the Department of Biostatistics. My team comprised of two other students: Deesha Bhaumik from Johns Hopkins University and Christian Erickson from Hope College.
+
+- More: [Poster](https://docs.google.com/a/umich.edu/viewer?a=v&pid=sites&srcid=dW1pY2guZWR1fHRhaG1lZWQtdHVyZWVufGd4OjM5MGRkMWU0OGNjNmNmODQ), [Photo w/ Mentors](https://da67918b-a-ab15346e-s-sites.googlegroups.com/a/umich.edu/tahmeed-tureen/home/research-experience/BDSI%2017%20EHR%20Mentors.JPG?attachauth=ANoY7cpLSYeuI93uErTNpIziGnXVqqQ6mNvJhFFtvFcfY87exaOfPotcbVWvVWQhvowgM9JhF-WnjNHTxLOSkgIImyZNRwcfRxQf6wagzGCyOn0qouYecubu-0qOMmNRdbwZxyvXK8iuKxIDNMi0jGpN6RmmPPtCtR96aMa7TRMgNg9PHJuRdPmieR4HfQrsYYofDy31bmSGdkJlwV_F7agAH9aNf_f7BBD4H4Tghwi9266x4CzTLlH9pYgQ1IXI9dry4hlRt3qi&attredirects=0), [Photo w/ Team](), [Applied Paper for Stats 404: Communications in Statistics](https://docs.google.com/a/umich.edu/viewer?a=v&pid=sites&srcid=dW1pY2guZWR1fHRhaG1lZWQtdHVyZWVufGd4OjRiNmNlNzVkM2ZjNTMwNDY)
 
 
-- [[May 2016 - August 2016]()] During the summer between my sophomore and junior year, I worked with Robert F. Schoeni from the Institute for Social Research. More to come..
+[ **May 2016 - August 2016** ] During the summer between my sophomore and junior year, I worked with Robert F. Schoeni from the Institute for Social Research. More to come..
 
