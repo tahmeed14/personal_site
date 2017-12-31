@@ -50,7 +50,7 @@ next semester
 .
 
 ### [Research](research.html)
-### [Teaching Experience]()
+### [Teaching Experience](teaching.html)
 ### [Extra-Curricular Clubs]()
 
 

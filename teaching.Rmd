@@ -1,0 +1,38 @@
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+# During Undergraduate at University of Michigan...
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+## Teaching Assistant
+- [SI 506 : Programming I](https://www.si.umich.edu/programs/courses/506#gsc.tab=0)
+
+SI 506 is a Masters level course offered by the School of Information at the University of Michigan. The course is taught primarily through the Python programming language and several topics revolving around Data-Oriented Programming is covered. Link to official course decription, [here](https://www.si.umich.edu/programs/courses/506#gsc.tab=0)
+
+My responsibilities:
+
+* Holding Office Hours
+* Grading code-based assignments, projects, & exams
+* Proctoring Exams
+* Answering students questions via [Piazza](https://piazza.com)
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+## Course Assistant
+- [STATS 250 : Introduction To Statistics & Data Analysis](https://lsa.umich.edu/stats/undergraduate-students/statistics-courses.html)
+
+Stats 250 is an undergraduate course offered by the Department of Statistics at the University of Michigan. This course is an introductory course meant to teach students basic statistics and get comfortable with analyzing data. The course also teaches students R and how to run different types of statistical analyses via R commander. Link to official course description, [here](https://lsa.umich.edu/stats/undergraduate-students/statistics-courses.html)
+
+My responsibilities:
+
+* Grading weekly homework assignments & exams
+* Reviewing grading rubric with peers & [Dr. Jack Miller](https://lsa.umich.edu/stats/people/faculty/jackie-miller.html)
+* Proctoring Exams
