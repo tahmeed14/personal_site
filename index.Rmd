@@ -9,12 +9,11 @@ A Synopsis of Sorts...
 - Senior at the [University of Michigan - Ann Arbor](https://www.umich.edu/)
 - [Statistics Major](https://lsa.umich.edu/stats)
 - Bangladesh -> Japan -> California -> Michigan -> ?
-- [Chelsea F.C.](https://www.chelseafc.com/) fan
 - [Michigan Club Lacrosse](https://www.michiganclublacrosse.com/) team member
-
+- [Chelsea F.C.](https://www.chelseafc.com/) fan
 
 Data science is something that I was instantly hooked on after I spent a summer working with [Dr. Robert F. Schoeni](https://www.psc.isr.umich.edu/people/profile/356/Robert_F_Schoeni) doing statistical analysis for one of his research projects.
 
 - Check out the [Research](research.html) tab!
 
-![@Biostats Symposium on Big Data at the University of Michigan](bdsi.jpg)
+![My long time friends and I (far right)](theboys.jpg)
