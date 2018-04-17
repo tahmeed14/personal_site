@@ -27,5 +27,5 @@ navbar:
       href: people.html
 output:
   html_document:
-    theme: yeti
+    theme: flatly
     #css: style.css
