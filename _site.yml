@@ -7,10 +7,10 @@ navbar:
       href: index.html
     - text: "About My"
       menu:
-        - text: "Education"
+        - text: "Undergraduate Education"
           href: about.html
-        - text: "Research"
-          href: research.html
+        - text: "Graduate Education (M.S.)"
+          href: graduate.html
         - text: "Coding Projects"
           href: projects.html
         - text: "Teaching Experience"
@@ -25,6 +25,7 @@ navbar:
       href: research.html
     - text: "The People"
       href: people.html
+
 output:
   html_document:
     theme: flatly

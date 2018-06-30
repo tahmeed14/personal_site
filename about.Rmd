@@ -1,57 +1,55 @@
 ---
-title: "Life as a student..."
+title: "Undergraduate Education"
 ---
 
-## Education
 
-University of Michigan, Ann Arbor [April 2018]
 
-Bachelors of Science Candidate, Statistics
+Bachelors of Science, Statistics
 
 Honors Program, College of Literature, Science, & Arts
 
+University of Michigan, Ann Arbor, April 2018
 
-.
-.
-.
+. . .
+
+## Synopsis
+
+- **Graduated**: Bachelors of Science degree with [Distinction]() and [Honors]()  in Statistics
+
+- **Undergraduate Thesis**: [Introduction to Sequential Multiple Assignment Randomized Trials with Zero Inflated Count Outcomes for the Development of Dynmaic Treatment Regimens: with application to substance use research]()
+
+- **Supervisors**: [Jamie Yap](), [Dr. Daniel Almirall](), and [Dr. Inbal Nahum-Shani]()
+
+. . .
+
+## Favorite Courses
+
+- [Stats 426: Intro to Theoretical Statistics]() with Dr. Naisyin Wang
+- [SI 206: Data-Oriented Programming]() with Dr. Jackie Cohen
+- [Stats 413: Applied Regression Analysis]() with Dr. Gongjun Xu
+- [Psych 120: The Meaning of Life & Death]() with Dr. Richard Mann
+
+...
+
+## Tips for Michigan students studying Statistics
+
+- Take [Stats 412]() instead of [Stats 250]()
+- Avoid [Stats 406]() if you can
+- Make sure to do the [EECS 183-EECS 280]() sequence before graduating, adding [EECS 281]() is a yugeee bonus
+- Take [SI 206]() and [Math 451]() before applying to graduate school (if you are applying that is)
+- Always try to talk to Gina *early* if you get a chance about classes, professors, and honors theses etc.
+- Find a stats professor and get to know them well, try to make them your 'informal' advisor. I had Dr. Susan Murphy and Dr. Naisyin Wang
 
 
-## Relevant Courses
+
+Feel free to contact me at [tureen@umich.edu]()
 
 
-### Mathematics
-
-- Calculus Sequence [Calc AB, Math 116, Math 215]
-- Linear Algebra with Proofs [Math 217]
-- Probability [Math 425]
-- Real Analysis [Math 451]
 
 
-### Statistics
-
-- Introductory Statistics & Data Analysis [Stats 250]
-- Theoretical Statistics [Stats 426]
-- Data Mining & Statistical Learning [Stats 415]
-- Computational Methods in Statistics & Data Science [Stats 406]
-
-next semester
-- Bayesian Data Analysis [Stats 451], Applied Regression [Stats 413]
 
 
-### Computer Science
 
-- Elementary Concepts in Programming [EECS 183] ... in C++
-- Programming & Introductory Data Structures [EECS 280] ... in C++
-- Data-Oriented Programming [SI 206] ... in Python
-- Data Manipulation [SI 330] ... in Python
-
-.
-.
-.
-
-### [Research](research.html)
-### [Teaching Experience](teaching.html)
-### [Extra-Curricular Clubs]()
 
 
 

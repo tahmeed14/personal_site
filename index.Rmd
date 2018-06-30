@@ -2,19 +2,36 @@
 title: "Welcome to my website!"
 ---
 
-
+![](Tahmeed-Tureen.png)
 
 A Synopsis of Sorts...
 
-- Senior at the [University of Michigan - Ann Arbor](https://www.umich.edu/)
-- [Statistics Major](https://lsa.umich.edu/stats)
+
+- First-year Masters student at the [University of Michigan - Ann Arbor](https://www.umich.edu/)
+- Studying [Biostatistics](https://sph.umich.edu/biostat/) at the [School of Public Health](https://sph.umich.edu/)
+- Research Assistant at [d3 Lab](http://d3lab-isr.com/)
+
+
+
+Previously...
+
+
+- Studied [Statistics](https://lsa.umich.edu/stats) in undergrad at the [University of Michigan - Ann Arbor](https://www.umich.edu/)
+- Competed as a team member for [Michigan Club Lacrosse](https://www.michiganclublacrosse.com/)
+
+
+Quick Trivia...
+
+
 - Bangladesh -> Japan -> California -> Michigan -> ?
-- [Michigan Club Lacrosse](https://www.michiganclublacrosse.com/) team member
-- [Chelsea F.C.](https://www.chelseafc.com/) fan
+- [Chelsea F.C.](https://www.chelseafc.com/en) fan
+- [Detroit Red Wings](https://www.nhl.com/redwings) fan
+
 
 Data science is something that I was instantly hooked on after I spent a summer working with [Dr. Robert F. Schoeni](https://www.psc.isr.umich.edu/people/profile/356/Robert_F_Schoeni) doing statistical analysis for one of his research projects.
 
-- Check out the [Research](research.html) tab!
+- Feel free to contact me at [tureen@umich.edu]()
+- Also check out other pages on my website for research projects, coding projects, friends, and personal hobbies!
 
 &nbsp;
 &nbsp;
@@ -24,5 +41,3 @@ Data science is something that I was instantly hooked on after I spent a summer 
 &nbsp;
 &nbsp;
 &nbsp;
-
-![My long time friends and I (far right)](theboys.jpg)
