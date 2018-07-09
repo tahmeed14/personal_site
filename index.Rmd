@@ -25,7 +25,6 @@ Quick Trivia...
 
 - Bangladesh -> Japan -> California -> Michigan -> ?
 - [Chelsea F.C.](https://www.chelseafc.com/en) fan
-- [Detroit Red Wings](https://www.nhl.com/redwings) fan
 
 
 Data science is something that I was instantly hooked on after I spent a summer working with [Dr. Robert F. Schoeni](https://www.psc.isr.umich.edu/people/profile/356/Robert_F_Schoeni) doing statistical analysis for one of his research projects.
