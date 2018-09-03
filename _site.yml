@@ -21,6 +21,8 @@ navbar:
           href: https://www.linkedin.com/in/tahmeed-tureen-79567376
         - text: GitHub
           href: https://github.com/tahmeed14
+    - text: "Projects"
+      href: projects.html
     - text: "Research"
       href: research.html
     - text: "The People"
