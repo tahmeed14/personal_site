@@ -1,24 +1,38 @@
 ---
 title: "Projects"
-date: "Last Updated 9/2/2018"
+date: "Last Updated 9/3/2018"
 ---
 
 
 ### Large Scale Projects
 
+- A Time-To-Event Analysis of Heart Failure using Electronic Health Records [[Poster](https://github.com/tahmeed14/survival-analysis-heart-failure-EHR/blob/master/symposium_poster.pdf)]  [[Presentation Slides](https://github.com/tahmeed14/survival-analysis-heart-failure-EHR/blob/master/appliedstats_presentation.pdf)]  [[Written Report](https://github.com/tahmeed14/survival-analysis-heart-failure-EHR/blob/master/appliedstats_written_report.pdf)]  [[Code](https://github.com/tahmeed14/survival-analysis-heart-failure-EHR/blob/master/heartfailure_EHR_code.R)]
 
-- Alcoholism in College Students: A Classification Analysis
 
-- Time Series Visualization of the English Premier League Big Six
 
-- Beautiful National Parks: A Data Stripping & Organization Project
+
+
+
+- Alcoholism in College Students: Finding the 'Best' Model for Classifying Alcoholism [[Written Report](https://github.com/tahmeed14/classification-models-for-alcoholism/blob/master/alcoholism_classification/written_report.pdf)]  [[Code](https://github.com/tahmeed14/classification-models-for-alcoholism/blob/master/alcoholism_classification/alcoholism_code_tureenkearnszheng.R)]
+
+
+
+- Beautiful National Parks: A Data Stripping & Database Project [[ReadMe](https://github.com/tahmeed14/Beautiful-National-Parks-A-Data-Stripping-Project/blob/master/206_FINAL_README.pdf)]  [[Code Repository](https://github.com/tahmeed14/Beautiful-National-Parks-A-Data-Stripping-Project)]
+
+
+
+- 'Machine Learning': Building a NLP Classifier from scratch using C++ [[Description]()]  [Code is not public due to the EECS Honor Code]
+
+
+
+- Time Series Visualization of the English Premier League Big Six [[Presentation Slides](https://github.com/tahmeed14/time-series-viz-english-premier-league/blob/master/presentation_slides_Tureen.pdf)]  [[Written Report](https://github.com/tahmeed14/time-series-viz-english-premier-league/blob/master/visualization_report.pdf)]  [[Code Repository](https://github.com/tahmeed14/time-series-viz-english-premier-league)]
 
 
 
 ### Small Scale Projects/Assignments
 
 
-- [War: The Card Game]()
+- War: The Card Game [[Code Repository](https://github.com/tahmeed14/war-card-game/blob/master/206W17-project1-readme.txt), [ReadMe](https://github.com/tahmeed14/war-card-game/blob/master/206W17-project1-readme.txt)]
 
 - University of Michigan Faculty Directory & Stripping Twitter Data [[Code Repository](https://github.com/tahmeed14/UMSI-and-Twitter-Data-Stripping/blob/master/SI206W17_project2.py)]
 
@@ -26,17 +40,18 @@ date: "Last Updated 9/2/2018"
 
 - [Immigration Network/Node Visualization](immigration.html)
 
-- Log File Analysis using RegEx
+- Log File Analysis using RegEx [Code Repository](https://github.com/tahmeed14/log-file-analysis-regex)
 
-- Good Books Database Generation: SQL, ETL, and PETL  
+- Good Books Database Generation: SQL, ETL, and PETL
 
-- Sentiment Analysis of bigrams in Victor Hugo's Les Miserables
+- Natural Language Processiong of bigrams in Les Miserables using MapReduce
+
+- Sentiment Analysis of Yelp reviews using Apache Spark
 
 
   
   
-### C++ based Projects (all from EECS classes)
-
+### C++ based Projects (Code is not public due to Honor Code)
 
 - Machine Learning: C++ Style Machine Learning 
 
