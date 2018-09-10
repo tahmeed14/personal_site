@@ -3,7 +3,13 @@
 .
 
 
-[ **Sep 2017 - Current** ] I am currently an undergraduate member of the d3 Lab at the Institute for Social Research at the University of Michigan. I am working with [Jamie Yap], a Research Associate, and supervised by Dr. Inbal Nahum-Shani, Research Professor, of the Institute for Social Research.
+THIS PAGE IS CURRENTLY UNDER CONSTRUCTION. Please check out my projects page which includes some of my research projects!
+
+.
+.
+.
+
+[ **Sep 2017 - Current** ] I was an undergraduate member of the d3 Lab at the Institute for Social Research at the University of Michigan. I am working with [Jamie Yap], a Research Associate, and supervised by Dr. Inbal Nahum-Shani, Research Professor, of the Institute for Social Research.
 
 - More: soon
 

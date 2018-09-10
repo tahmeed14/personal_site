@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-date: "Last Updated 9/3/2018"
+date: "Last Updated 9/9/2018"
 ---
 
 
@@ -25,14 +25,19 @@ date: "Last Updated 9/3/2018"
 
 
 
-- Time Series Visualization of the English Premier League Big Six [[Presentation Slides](https://github.com/tahmeed14/time-series-viz-english-premier-league/blob/master/presentation_slides_Tureen.pdf)]  [[Written Report](https://github.com/tahmeed14/time-series-viz-english-premier-league/blob/master/visualization_report.pdf)]  [[Code Repository](https://github.com/tahmeed14/time-series-viz-english-premier-league)]
+- Time Series Visualization of the English Premier League over the Years [[Presentation Slides](https://github.com/tahmeed14/time-series-viz-english-premier-league/blob/master/presentation_slides_Tureen.pdf)]  [[Written Report](https://github.com/tahmeed14/time-series-viz-english-premier-league/blob/master/visualization_report.pdf)]  [[Code Repository](https://github.com/tahmeed14/time-series-viz-english-premier-league)]
 
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 ### Small Scale Projects/Assignments
 
 
-- War: The Card Game [[Code Repository](https://github.com/tahmeed14/war-card-game/blob/master/206W17-project1-readme.txt), [ReadMe](https://github.com/tahmeed14/war-card-game/blob/master/206W17-project1-readme.txt)]
+- War: The Card Game [[Code Repository](https://github.com/tahmeed14/war-card-game/blob/master/206W17-project1-readme.txt)] [[ReadMe](https://github.com/tahmeed14/war-card-game/blob/master/206W17-project1-readme.txt)]
 
 - University of Michigan Faculty Directory & Stripping Twitter Data [[Code Repository](https://github.com/tahmeed14/UMSI-and-Twitter-Data-Stripping/blob/master/SI206W17_project2.py)]
 
@@ -40,16 +45,21 @@ date: "Last Updated 9/3/2018"
 
 - [Immigration Network/Node Visualization](immigration.html)
 
-- Log File Analysis using RegEx [Code Repository](https://github.com/tahmeed14/log-file-analysis-regex)
+- Log File Analysis using RegEx [[Code Repository](https://github.com/tahmeed14/log-file-analysis-regex)]  [ [Code](https://github.com/tahmeed14/log-file-analysis-regex/blob/master/log-analysis-tureen.py)]  [[ReadMe](https://github.com/tahmeed14/log-file-analysis-regex/blob/master/ReadMe-logfile-analysis.pdf)]
 
-- Good Books Database Generation: SQL, ETL, and PETL
+- Good Books Database Generation: SQL, ETL, and PETL  [[Code Repository](https://github.com/tahmeed14/goodreads-datbases-sql-etl)]  [[Code](https://github.com/tahmeed14/goodreads-datbases-sql-etl/blob/master/goodreads-query.py)]  [[ReadMe](https://github.com/tahmeed14/goodreads-datbases-sql-etl/blob/master/summary-ReadMe-goodreads.pdf)]
 
-- Natural Language Processiong of bigrams in Les Miserables using MapReduce
+- Natural Language Processiong of bigrams in Les Miserables using MapReduce  [[Code Repository](https://github.com/tahmeed14/nlp-of-les-miserables)]  [[ReadMe](https://github.com/tahmeed14/nlp-of-les-miserables/blob/master/ReadMe-nlp-bigrams-tureen.pdf)]
 
-- Sentiment Analysis of Yelp reviews using Apache Spark
+- Sentiment Analysis of Yelp reviews using Apache Spark  (Publishing soon!) [[Code Repository](https://github.com/tahmeed14/goodreads-datbases-sql-etl)]  [[Code]()]  [[ReadMe]()]
 
 
-  
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
   
 ### C++ based Projects (Code is not public due to Honor Code)
 

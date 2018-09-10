@@ -18,7 +18,7 @@ University of Michigan, Ann Arbor, April 2018
 
 - **Undergraduate Thesis**: [Introduction to Sequential Multiple Assignment Randomized Trials with Zero Inflated Count Outcomes for the Development of Dynmaic Treatment Regimens: with application to substance use research]()
 
-- **Supervisors**: [Jamie Yap](), [Dr. Daniel Almirall](), and [Dr. Inbal Nahum-Shani]()
+- **Thesis Advisors**: [Jamie Yap](https://jamieyap.github.io/), [Dr. Daniel Almirall](https://lsa.umich.edu/stats/people/faculty/DanielAlmirall.html), and [Dr. Inbal Nahum-Shani](http://www-personal.umich.edu/~inbal/)
 
 . . .
 
