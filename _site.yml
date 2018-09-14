@@ -27,6 +27,8 @@ navbar:
       href: research.html
     - text: "The People"
       href: people.html
+    - text: "Activities & Clubs"
+      href: extras.html
 
 output:
   html_document:
