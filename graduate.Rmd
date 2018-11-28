@@ -18,7 +18,7 @@ University of Michigan, Ann Arbor, April 2020
 
 - **Thesis**: TBA 
 
-- **Research Advisor**: TBA
+- **Research Advisor**: [Dr. Brisa Sanchez](https://sph.umich.edu/faculty-profiles/sanchez-brisa.html)
 
 - **Academic Advisor**: [Dr. Kelley Kidwell](https://sph.umich.edu/faculty-profiles/kidwell-kelley.html)
 
@@ -27,11 +27,11 @@ University of Michigan, Ann Arbor, April 2020
 
 ## Favorite Courses
 
-- TBA
+- [Biostats 615: Statistical Computing](https://sph.umich.edu/biostat/course.php?courseID=BIOSTAT615) with Dr. Jian Kang
 
 ...
 
-## Tips for Michigan students studying Biostatistics
+## Tips for Michigan students considering/studying Biostatistics
 
 - Apply to the [Big Data Summer Institute](https://sph.umich.edu/bdsi/) at the University of Michigan
 - TBA
