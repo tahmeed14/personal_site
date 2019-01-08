@@ -1,87 +1,90 @@
 ---
 title: "Projects"
-date: "Last Updated 9/9/2018"
+date: "Last Updated 1/8/2019"
 ---
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
-### Large Scale Projects
+### Data Science Projects
 
-- A Time-To-Event Analysis of Heart Failure using Electronic Health Records [[Poster](https://github.com/tahmeed14/survival-analysis-heart-failure-EHR/blob/master/symposium_poster.pdf)]  [[Presentation Slides](https://github.com/tahmeed14/survival-analysis-heart-failure-EHR/blob/master/appliedstats_presentation.pdf)]  [[Written Report](https://github.com/tahmeed14/survival-analysis-heart-failure-EHR/blob/master/appliedstats_written_report.pdf)]  [[Code](https://github.com/tahmeed14/survival-analysis-heart-failure-EHR/blob/master/heartfailure_EHR_code.R)]
-
-
-
-
-
-
-- Alcoholism in College Students: Finding the 'Best' Model for Classifying Alcoholism [[Written Report](https://github.com/tahmeed14/classification-models-for-alcoholism/blob/master/alcoholism_classification/written_report.pdf)]  [[Code](https://github.com/tahmeed14/classification-models-for-alcoholism/blob/master/alcoholism_classification/alcoholism_code_tureenkearnszheng.R)]
-
-
-
-- Beautiful National Parks: A Data Stripping & Database Project [[ReadMe](https://github.com/tahmeed14/Beautiful-National-Parks-A-Data-Stripping-Project/blob/master/206_FINAL_README.pdf)]  [[Code Repository](https://github.com/tahmeed14/Beautiful-National-Parks-A-Data-Stripping-Project)]
+- **A Time-To-Event Analysis of Heart Failure using Electronic Health Records** [[Poster](https://github.com/tahmeed14/survival-analysis-heart-failure-EHR/blob/master/symposium_poster.pdf)]  [[Presentation Slides](https://github.com/tahmeed14/survival-analysis-heart-failure-EHR/blob/master/appliedstats_presentation.pdf)]  [[Written Report](https://github.com/tahmeed14/survival-analysis-heart-failure-EHR/blob/master/appliedstats_written_report.pdf)]  [[Code](https://github.com/tahmeed14/survival-analysis-heart-failure-EHR/blob/master/heartfailure_EHR_code.R)]
 
 
-
-- 'Machine Learning': Building a NLP Classifier from scratch using C++ [[Description]()]  [Code is not public due to the EECS Honor Code]
-
+- **Beautiful National Parks:** A Data Stripping & Database Management Project using BeautifulSoup [[ReadMe](https://github.com/tahmeed14/Beautiful-National-Parks-A-Data-Stripping-Project/blob/master/206_FINAL_README.pdf)]  [[Code Repository](https://github.com/tahmeed14/Beautiful-National-Parks-A-Data-Stripping-Project)]
 
 
-- Time Series Visualization of the English Premier League over the Years [[Presentation Slides](https://github.com/tahmeed14/time-series-viz-english-premier-league/blob/master/presentation_slides_Tureen.pdf)]  [[Written Report](https://github.com/tahmeed14/time-series-viz-english-premier-league/blob/master/visualization_report.pdf)]  [[Code Repository](https://github.com/tahmeed14/time-series-viz-english-premier-league)]
+- **Natural Langugage Processing of Piazza Posts:** A C++ Implementation of the Naive Bayes Classifier [[Description]()]  [Code is private]
+
+
+- **Top Flight British Soccer over the Years:** Time Series Visualization of the English Premier League over the Years [[Presentation Slides](https://github.com/tahmeed14/time-series-viz-english-premier-league/blob/master/presentation_slides_Tureen.pdf)]  [[Written Report](https://github.com/tahmeed14/time-series-viz-english-premier-league/blob/master/visualization_report.pdf)]  [[Code Repository](https://github.com/tahmeed14/time-series-viz-english-premier-league)]
+
+
+- **Alcoholism in Portuguese College Students:** Finding the 'Best' Model for Classifying Alcoholism [[Written Report](https://github.com/tahmeed14/classification-models-for-alcoholism/blob/master/alcoholism_classification/written_report.pdf)]  [[Code](https://github.com/tahmeed14/classification-models-for-alcoholism/blob/master/alcoholism_classification/alcoholism_code_tureenkearnszheng.R)]
 
 
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
-
-
-### Small Scale Projects/Assignments
-
-
-- War: The Card Game [[Code Repository](https://github.com/tahmeed14/war-card-game/blob/master/206W17-project1-readme.txt)] [[ReadMe](https://github.com/tahmeed14/war-card-game/blob/master/206W17-project1-readme.txt)]
-
-- University of Michigan Faculty Directory & Stripping Twitter Data [[Code Repository](https://github.com/tahmeed14/UMSI-and-Twitter-Data-Stripping/blob/master/SI206W17_project2.py)]
-
-- Stripping Twitter Data & Creating SQL Databases [[Code Repository](https://github.com/tahmeed14/Twitter-Data-and_Databases)]
-
-- [Immigration Network/Node Visualization](immigration.html)
-
-- Log File Analysis using RegEx [[Code Repository](https://github.com/tahmeed14/log-file-analysis-regex)]  [ [Code](https://github.com/tahmeed14/log-file-analysis-regex/blob/master/log-analysis-tureen.py)]  [[ReadMe](https://github.com/tahmeed14/log-file-analysis-regex/blob/master/ReadMe-logfile-analysis.pdf)]
-
-- Good Books Database Generation: SQL, ETL, and PETL  [[Code Repository](https://github.com/tahmeed14/goodreads-datbases-sql-etl)]  [[Code](https://github.com/tahmeed14/goodreads-datbases-sql-etl/blob/master/goodreads-query.py)]  [[ReadMe](https://github.com/tahmeed14/goodreads-datbases-sql-etl/blob/master/summary-ReadMe-goodreads.pdf)]
-
-- Natural Language Processiong of bigrams in Les Miserables using MapReduce  [[Code Repository](https://github.com/tahmeed14/nlp-of-les-miserables)]  [[ReadMe](https://github.com/tahmeed14/nlp-of-les-miserables/blob/master/ReadMe-nlp-bigrams-tureen.pdf)]
-
-- Sentiment Analysis of Yelp reviews using Apache Spark  (Publishing soon!) [[Code Repository](https://github.com/tahmeed14/goodreads-datbases-sql-etl)]  [[Code]()]  [[ReadMe]()]
-
-
-
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 
   
-### C++ based Projects (Code is not public due to Honor Code)
+### Software Dev. Projects
 
-- Machine Learning: C++ Style Machine Learning 
+- **Euchre:** Playable simulator of the popular Michigan card game, Euchre
 
-- Euchre: C++ Style Simulator of the popular Michigan card game, Euchre
+- **SPACE INVADERS:** Integration of C++ software and Arduino hardware to re-create the popular arcade game, Space Invaders
+    - *Acknowledgements: Justin Kim, Luis Gago, and Holden Kardos*
+    
+    
 
-- Cupcakes: Recipe Cost Calculator
+- **oh hi:** C++ Implemented Simulator of the "oh hi" logic game [[play the original game](http://0hh1.com/) ]
 
-- Birthday Calculator
+- **Friend Harmony:** Program that matches a user with their "Best Friend" in EECS 183 using characteristic traits (Mock eHarmony)
 
-- oh hi: A logic game [[play the original game](http://0hh1.com/) ]
+- **Reverse Polish Notation Calculator:** RPN Calculator implementation using C++ Linked Lists & Stacks
 
-- Friend Harmony: A mock eHarmony
+- **War:** Simulation of the War Card Game using Python [[Code Repository](https://github.com/tahmeed14/war-card-game/blob/master/206W17-project1-readme.txt)] [[ReadMe](https://github.com/tahmeed14/war-card-game/blob/master/206W17-project1-readme.txt)]
 
-- SPACE INVADERS: A Classic Videogame
+- **Image Resizing:** C++ program that mutates and manipulates pixels in image files (for laughs?)
 
-- Statistics: A basic Statistics calculator
+- **Price of Cupcakes:** C++ Implemented Calculator for generating the costs of different cupcake recipes 
 
-- Image Resizing: C-style programming to manipulate images
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
-- Linked Lists & Stacks
+
+### Mini Data-driven Projects
 
 
+- **Creating Tweet Databases:** Stripping Twitter data using Tweepy & Python to create subject specific databases of Tweets [[Code Repository](https://github.com/tahmeed14/Twitter-Data-and_Databases)]
+
+- **Natural Language Processiong of Les Miserables:** Exploring the bigram frequencies in Les Miserables using Python & MapReduce  [[Code Repository](https://github.com/tahmeed14/nlp-of-les-miserables)]  [[ReadMe](https://github.com/tahmeed14/nlp-of-les-miserables/blob/master/ReadMe-nlp-bigrams-tureen.pdf)]
+
+- **Sentiment Analysis of Yelp reviews:** Analysis of Yelp reviews using Python & Apache Spark  (Publishing soon!) [[Code Repository](https://github.com/tahmeed14/goodreads-datbases-sql-etl)]  [[Code]()]  [[ReadMe]()]
+
+
+- **Log File Analysis using Regular Expression:** Text Classification of valid/invalid website domains [[Code Repository](https://github.com/tahmeed14/log-file-analysis-regex)]  [ [Code](https://github.com/tahmeed14/log-file-analysis-regex/blob/master/log-analysis-tureen.py)]  [[ReadMe](https://github.com/tahmeed14/log-file-analysis-regex/blob/master/ReadMe-logfile-analysis.pdf)]
+
+- **Good Books Database Generation:** ETL approach in creating a database for book reviews & ratings using SQL & Python [[Code Repository](https://github.com/tahmeed14/goodreads-datbases-sql-etl)]  [[Code](https://github.com/tahmeed14/goodreads-datbases-sql-etl/blob/master/goodreads-query.py)]  [[ReadMe](https://github.com/tahmeed14/goodreads-datbases-sql-etl/blob/master/summary-ReadMe-goodreads.pdf)]
+
+- [**Immigration Network Visualization:**](immigration.html) Visualization of immigration data from around the world using Plotly & Python
+
+- University of Michigan Faculty Directory & Stripping Twitter Data [[Code Repository](https://github.com/tahmeed14/UMSI-and-Twitter-Data-Stripping/blob/master/SI206W17_project2.py)]
 
