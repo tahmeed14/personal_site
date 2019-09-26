@@ -7,10 +7,8 @@ title: "Welcome to my website!"
 A Synopsis of Sorts...
 
 
-- First-year Masters student at the [University of Michigan - Ann Arbor](https://www.umich.edu/)
+- Second-year Masters student at the [University of Michigan - Ann Arbor](https://www.umich.edu/)
 - Studying [Biostatistics](https://sph.umich.edu/biostat/) at the [School of Public Health](https://sph.umich.edu/)
-- Incoming Data Science Intern at [*Nielsen*](https://www.nielsen.com/us/en.html)  -  Chicago, IL (Summer 2019)
-
 
 
 Previously...
@@ -18,13 +16,16 @@ Previously...
 
 - Studied [Statistics](https://lsa.umich.edu/stats) in undergrad at the [University of Michigan - Ann Arbor](https://www.umich.edu/)
 - Competed as a team member for [Michigan Club Lacrosse](https://www.michiganclublacrosse.com/)
+- Data Science Intern at [*Nielsen*](https://www.nielsen.com/us/en.html)  -  Chicago, IL (Summer 2019)
 
 
 Quick Trivia...
 
 
 - Bangladesh -> Japan -> California -> Michigan -> ?
-- [Chelsea F.C.](https://www.chelseafc.com/en) fan
+- [Michigan Atheltics](https://mgoblue.com/)
+- [Chelsea F.C.](https://www.chelseafc.com/en)
+
 
 
 Data science is something that I was instantly hooked on after I spent a summer working with [Dr. Robert F. Schoeni](https://www.psc.isr.umich.edu/people/profile/356/Robert_F_Schoeni) doing statistical analysis for one of his research projects.

@@ -12,6 +12,10 @@ date: "Last Updated 1/8/2019"
 &nbsp;
 &nbsp;
 
+### Research Projects (Statistics/Data Science)
+
+- 
+
 ### Data Science Projects
 
 - **A Time-To-Event Analysis of Heart Failure using Electronic Health Records** [[Poster](https://github.com/tahmeed14/survival-analysis-heart-failure-EHR/blob/master/symposium_poster.pdf)]  [[Presentation Slides](https://github.com/tahmeed14/survival-analysis-heart-failure-EHR/blob/master/appliedstats_presentation.pdf)]  [[Written Report](https://github.com/tahmeed14/survival-analysis-heart-failure-EHR/blob/master/appliedstats_written_report.pdf)]  [[Code](https://github.com/tahmeed14/survival-analysis-heart-failure-EHR/blob/master/heartfailure_EHR_code.R)]
