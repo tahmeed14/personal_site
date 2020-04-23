@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -69,9 +70,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -85,7 +84,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -95,6 +93,9 @@ img {
 }
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -110,7 +111,6 @@ body {
   padding-top: 65px;
   margin-top: -65px;
 }
-
 .section h2 {
   padding-top: 65px;
   margin-top: -65px;
@@ -130,6 +130,43 @@ body {
 .section h6 {
   padding-top: 65px;
   margin-top: -65px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -151,19 +188,73 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-</script>
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -256,26 +347,19 @@ $(document).ready(function () {
 <h2>Synopsis</h2>
 <ul>
 <li><p><strong>Graduating</strong>: in 2020</p></li>
-<li><p><strong>Research Advisor</strong>: <a href="https://sph.umich.edu/faculty-profiles/sanchez-brisa.html">Dr. Brisa Sanchez</a> (2018-Present)</p></li>
-</ul>
-<p><a href="https://sph.umich.edu/faculty-profiles/kang-jian.html">Dr. Jian Kang</a> (2019 - Present)</p>
-<ul>
-<li><strong>Academic Advisor</strong>: <a href="https://sph.umich.edu/faculty-profiles/kidwell-kelley.html">Dr. Kelley Kidwell</a></li>
+<li><p><strong>Research Advisor (Year 1)</strong>: <a href="https://sph.umich.edu/faculty-profiles/sanchez-brisa.html">Dr. Brisa Sanchez</a> (2018-Present)</p></li>
+<li><p><strong>Research Advisor (Year 2)</strong>: <a href="https://sph.umich.edu/faculty-profiles/kang-jian.html">Dr. Jian Kang</a> (2019 - Present)</p></li>
+<li><p><strong>Academic Advisor</strong>: <a href="https://sph.umich.edu/faculty-profiles/kidwell-kelley.html">Dr. Kelley Kidwell</a></p></li>
 </ul>
 </div>
 <div id="favorite-courses" class="section level2">
 <h2>Favorite Courses</h2>
 <ul>
-<li><a href="https://sph.umich.edu/biostat/course.php?courseID=BIOSTAT615">Biostats 615: Statistical Computing</a> with Dr. Jian Kang</li>
+<li><p><a href="https://sph.umich.edu/biostat/course.php?courseID=BIOSTAT615">BSTAT 615: Statistical Computing</a> with Dr. Jian Kang</p></li>
+<li><p><a href="https://www.si.umich.edu/programs/courses/630">SI 630: Natural Language Processing and its Algorithms</a> with Dr. David Jurgens</p></li>
+<li><p><a href="https://sph.umich.edu/academics/courses/course.php?courseID=BIOSTAT699">BSTAT 699: Analysis Of Biostatistical Investigations</a> with Dr. Phil Boonstra, Dr. Mike Elliot, and Dr. Jeremy Taylor</p></li>
 </ul>
 <p>…</p>
-</div>
-<div id="tips-for-michigan-students-consideringstudying-biostatistics" class="section level2">
-<h2>Tips for Michigan students considering/studying Biostatistics</h2>
-<ul>
-<li>Apply to the <a href="https://sph.umich.edu/bdsi/">Big Data Summer Institute</a> at the University of Michigan</li>
-<li>TBA</li>
-</ul>
 <p>Feel free to contact me at <a href="">tureen@umich.edu</a></p>
 </div>
 
@@ -296,6 +380,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

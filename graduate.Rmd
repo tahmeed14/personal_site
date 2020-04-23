@@ -16,9 +16,9 @@ University of Michigan, Ann Arbor, April 2020
 
 - **Graduating**: in 2020
 
-- **Research Advisor**: [Dr. Brisa Sanchez](https://sph.umich.edu/faculty-profiles/sanchez-brisa.html) (2018-Present)
+- **Research Advisor (Year 1)**: [Dr. Brisa Sanchez](https://sph.umich.edu/faculty-profiles/sanchez-brisa.html) (2018-Present)
 
-[Dr. Jian Kang](https://sph.umich.edu/faculty-profiles/kang-jian.html) (2019 - Present)
+- **Research Advisor (Year 2)**: [Dr. Jian Kang](https://sph.umich.edu/faculty-profiles/kang-jian.html) (2019 - Present)
 
 - **Academic Advisor**: [Dr. Kelley Kidwell](https://sph.umich.edu/faculty-profiles/kidwell-kelley.html)
 
@@ -27,15 +27,13 @@ University of Michigan, Ann Arbor, April 2020
 
 ## Favorite Courses
 
-- [Biostats 615: Statistical Computing](https://sph.umich.edu/biostat/course.php?courseID=BIOSTAT615) with Dr. Jian Kang
+- [BSTAT 615: Statistical Computing](https://sph.umich.edu/biostat/course.php?courseID=BIOSTAT615) with Dr. Jian Kang
+
+- [SI 630: Natural Language Processing and its Algorithms](https://www.si.umich.edu/programs/courses/630) with Dr. David Jurgens
+
+- [BSTAT 699: Analysis Of Biostatistical Investigations](https://sph.umich.edu/academics/courses/course.php?courseID=BIOSTAT699) with Dr. Phil Boonstra, Dr. Mike Elliot, and Dr. Jeremy Taylor
 
 ...
-
-## Tips for Michigan students considering/studying Biostatistics
-
-- Apply to the [Big Data Summer Institute](https://sph.umich.edu/bdsi/) at the University of Michigan
-- TBA
-
 
 
 Feel free to contact me at [tureen@umich.edu]()
