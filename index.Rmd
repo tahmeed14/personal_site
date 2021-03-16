@@ -6,13 +6,13 @@ title: "Welcome to my website!"
 
 A Synopsis of Sorts...
 
-- Incoming Data Scientist at [KPMG Lighthouse](https://home.kpmg/us/en/home/insights/2015/01/data-and-analytics.html)
-- Summer Graduate Student Research Assistant at the [University of Michigan - Ann Arbor](https://www.umich.edu/) working on Machine Learning in the field of Statistical Brain Imaging
+- Data Scientist (Associate) at [KPMG Lighthouse](https://home.kpmg/us/en/home/insights/2015/01/data-and-analytics.html)
 
 
 
 Previously...
 
+- Summer Graduate Student Research Assistant at the [University of Michigan - Ann Arbor](https://www.umich.edu/) working on Machine Learning in the field of Statistical Brain Imaging
 - Studied [Biostatistics](https://sph.umich.edu/biostat/) in graduate school at the [University of Michigan - Ann Arbor](https://www.umich.edu/)
 - Studied [Statistics](https://lsa.umich.edu/stats) in undergrad at the [University of Michigan - Ann Arbor](https://www.umich.edu/)
 - Competed as a team member for [Michigan Club Lacrosse](https://www.michiganclublacrosse.com/)
@@ -26,6 +26,7 @@ Quick Trivia...
 - Cities: Dhaka -> Ichikawa -> Los Angeles -> Ann Arbor -> Chicago
 - [Michigan Athletics](https://mgoblue.com/)
 - [Chelsea F.C.](https://www.chelseafc.com/en)
+- [Detroit Sports](https://www.youtube.com/watch?v=vjUgJ6Cw5PU) (the Wings and Pistons will be great again... one day...)
 
 
 
