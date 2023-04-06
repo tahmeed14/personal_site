@@ -19,18 +19,23 @@ navbar:
       menu:
         - text: LinkedIn
           href: https://www.linkedin.com/in/tahmeed-tureen-79567376
+          icon: fa-linkedin fa-lg
+        - text: Twitter
+          href: https://twitter.com/TTureen
+          icon: fa-twitter fa-lg
         - text: GitHub
           href: https://github.com/tahmeed14
+          icon: fa-github fa-lg
     - text: "Projects"
       href: projects.html
-    - text: "Research"
-      href: research.html
+    # - text: "Research"
+    #   href: research.html
     - text: "The People"
       href: people.html
-    - text: "Activities & Clubs"
-      href: extras.html
+    # - text: "Activities & Clubs"
+    #   href: extras.html
 
 output:
   html_document:
-    theme: flatly
-    #css: style.css
+    theme: readable # united # readable
+    css: style.css

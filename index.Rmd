@@ -1,45 +1,89 @@
 ---
-title: "Welcome to my website!"
+title: ''
 ---
 
-![](Tahmeed-Tureen.png)
+<center> <h1>Tahmeed Tureen</h1> </center>
+<center> 
+Data Scientist - Senior Associate at [KPMG US](https://www.kpmg.us/)\newline
 
-A Synopsis of Sorts...
-
-- Data Scientist (Associate) at [KPMG Lighthouse](https://home.kpmg/us/en/home/insights/2015/01/data-and-analytics.html)
-
-
-
-Previously...
-
-- Summer Graduate Student Research Assistant at the [University of Michigan - Ann Arbor](https://www.umich.edu/) working on Machine Learning in the field of Statistical Brain Imaging
-- Studied [Biostatistics](https://sph.umich.edu/biostat/) in graduate school at the [University of Michigan - Ann Arbor](https://www.umich.edu/)
-- Studied [Statistics](https://lsa.umich.edu/stats) in undergrad at the [University of Michigan - Ann Arbor](https://www.umich.edu/)
-- Competed as a team member for [Michigan Club Lacrosse](https://www.michiganclublacrosse.com/)
-- Data Science Intern at [*Nielsen*](https://www.nielsen.com/us/en.html)  -  Chicago, IL (Summer 2019)
+<a href="https://www.linkedin.com/in/tahmeed-tureen-79567376" class="fa fa-linkedin fa-lg"></a> | <a href="https://twitter.com/TTureen" class="fa fa-twitter fa-lg"></a> | <a href="https://github.com/tahmeed14" class="fa fa-github fa-lg"></a>
 
 
-Quick Trivia...
+**Welcome to my website!**
+</center>
+
+<center>
+<img src="pictures\SB_crop.jpg" style="width:30%; border:2px solid; border-color:black">
+</center>
+
+<center> 
+<h3>About Me</h3>
+
+I am currently a Data Scientist at [KPMG US](https://www.kpmg.us/) where I work in the Data & Analytics branch with the [Signals Team]().\newline 
+
+Although my job title is "Data Scientist", I was formally trained as a Statistician and I enjoy approaching problems from a "statistician's perspective". Outside of my professional life, I love to apply my knowledge of statistics to soccer (football) analytics and also dive deep into learning more about the tactical aspects of the sport.\newline 
+
+My dad and my cousin introduced me to soccer through the [2002 World Cup](https://www.fifa.com/tournaments/mens/worldcup/2002korea-japan) and I have followed it ever since. I have supported [Chelsea F.C.](https://www.chelseafc.com/en) since I was a seven year old kid from the 2002/03 season and have supported the [University of Michigan Athletics](https://mgoblue.com/) since my family and I moved to Ann Arbor in 2009.
+</center>
+
+</div>
+<div style="margin-bottom:10px;">
+</div>
+
+<center> 
+<h3>Previously...</h3>
+</center>
+
+- **2019-2020**: Graduate Student Research Assistant at [Kang Lab](http://www-personal.umich.edu/~jiankang/index.html) working on Machine Learning applied to Statistical Brain Imaging
+
+- **Summer 2019**: Data Science Intern at [Nielsen](https://www.nielsen.com/us/en.html) working on the analysis and detection of anomalous user behavior on mobile applications
+
+- **2018-2019**: Graduate Student Research Assistant at [B4SI](https://biostatistics4socialimpact.github.io/about/) Lab working on Statistical Learning applied to Environmental Health
+
+- **2018-2020**: Graduate student in the [Biostatistics](https://sph.umich.edu/biostat/) department at the [University of Michigan - Ann Arbor](https://www.umich.edu/)
+
+- **Summer 2017**: Research Intern at [Big Data Summer Institute](https://sph.umich.edu/bdsi/) working on survival analysis of heart failure patients in Electronic Health Records (EHR) data  
+
+- **2017-2018**: Undergraduate Research Assistant at [d3 Lab](https://d3c.isr.umich.edu/) and [Statistical Reinforcement Learning Lab](http://people.seas.harvard.edu/~samurphy/lab/overview.html) working on implementing simulation studies for adaptive interventions for mobile health patients
+
+- **2014-2018**: Undergraduate student in the [Statistics](https://lsa.umich.edu/stats) department at the [University of Michigan - Ann Arbor](https://www.umich.edu/)
+
+</div>
+<div style="margin-bottom:10px;">
+</div>
+
+<!-- <center> -->
+<!-- <img src="pictures\umich_v_osu.jpg" style="width:25%; border:2px solid; border-color:black"> -->
+<!-- <figcaption> <b>November 27th, 2021:</b> No.5 Michigan beats No.2 Ohio State at the Big House</figcaption> -->
+<!-- </center> -->
+
+<center> 
+<h3>A bit of Trivia...</h3>
+</center>
+
+- [University of Michigan]() Alumni
+  - Class of 2018 (BS Honors in [Statistics](https://lsa.umich.edu/stats))
+  - Class of 2020 (MS in [Biostatistics](https://sph.umich.edu/biostat/))\newline
+- [Michigan Athletics](https://mgoblue.com/) Fan
+- [Chelsea F.C.](https://www.chelseafc.com/en) Supporter
+- Played [Club Lacrosse](http://umichclublacrosse.com/) for University of Michigan
+- Published researcher in Sports Analytics ([StatsBomb](https://statsbomb.com/events/statsbomb-conference-2022/), [Frontiers](https://www.frontiersin.org/research-topics/16038/using-artificial-intelligence-to-enhance-sport-performance#articles))
+
+- **Places I have lived in**: 
+  - Dhaka, Bangladesh
+  - Ichikawa, Japan
+  - Los Angeles, California
+  - Ann Arbor, Michigan
+  - Chicago, Illinois
+
+- **International places I have been to**:
+  - Tokyo, Japan
+  - Hokkaido, Japan
+  - Tsukuba, Japan
+  - London, United Kingdom
+  - Stockholm, Sweden
+  - Helsinki, Finland
+  - Rome, Italy
+  - Toronto, Canada
 
 
-- Bangladesh -> Japan -> California -> Michigan -> Illinois
-- Cities: Dhaka -> Ichikawa -> Los Angeles -> Ann Arbor -> Chicago
-- [Michigan Athletics](https://mgoblue.com/)
-- [Chelsea F.C.](https://www.chelseafc.com/en)
-- [Detroit Sports](https://www.youtube.com/watch?v=vjUgJ6Cw5PU) (the Wings and Pistons will be great again... one day...)
-
-
-
-Data science is something that I was instantly hooked on after I spent a summer working with [Dr. Robert F. Schoeni](https://www.psc.isr.umich.edu/people/profile/356/Robert_F_Schoeni) doing statistical analysis for one of his research projects.
-
-- Feel free to contact me at [tureen@umich.edu]()
-- Also check out other pages on my website for research projects, coding projects, friends, and personal hobbies!
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
