@@ -2,7 +2,7 @@
 title: ''
 ---
 
-<center> <h1>Tahmeed Tureen</h1> </center>
+<center> <h1><b>Tahmeed Tureen</b></h1> </center>
 <center> 
 Data Scientist - Senior Associate at [KPMG US](https://www.kpmg.us/)\newline
 
@@ -17,7 +17,7 @@ Data Scientist - Senior Associate at [KPMG US](https://www.kpmg.us/)\newline
 </center>
 
 <center> 
-<h3>About Me</h3>
+<h3><b>About Me</b></h3>
 
 I am currently a Data Scientist at [KPMG US](https://www.kpmg.us/) where I work in the Data & Analytics branch with the [Signals Team]().\newline 
 
@@ -31,7 +31,7 @@ My dad and my cousin introduced me to soccer through the [2002 World Cup](https:
 </div>
 
 <center> 
-<h3>Previously...</h3>
+<h3><b>Previously...</b></h3>
 </center>
 
 - **2019-2020**: Graduate Student Research Assistant at [Kang Lab](http://www-personal.umich.edu/~jiankang/index.html) working on Machine Learning applied to Statistical Brain Imaging
@@ -58,7 +58,7 @@ My dad and my cousin introduced me to soccer through the [2002 World Cup](https:
 <!-- </center> -->
 
 <center> 
-<h3>A bit of Trivia...</h3>
+<h3><b>A bit of Trivia...</b></h3>
 </center>
 
 - [University of Michigan]() Alumni

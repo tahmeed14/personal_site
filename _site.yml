@@ -37,5 +37,5 @@ navbar:
 
 output:
   html_document:
-    theme: readable # united # readable
+    theme: yeti # yeti # united # readable
     css: style.css
