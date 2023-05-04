@@ -50,7 +50,7 @@ University of Michigan, Ann Arbor, April 2020
 - [BIOSTAT 625: Big Data Computing]() with Dr. Hui Jiang
 - [BIOSTAT 653: Theory & Application of Longitudinal Data Analysis]() with Dr. Zhenke Wu
 - [BIOSTAT 675: Survival Analysis]() with Dr. Yi Li
-- [BIOSTAT 803: Biostatistics in Cancer Seminar] with Dr. Jeremy Taylor
+- [BIOSTAT 803: Biostatistics in Cancer Seminar]() with Dr. Jeremy Taylor
 
 <h4><b>Winter 2020</b></h4>
 - [BIOSTAT 699: Biostatiscal Investigations]() with Dr. Phil Boonstra, Dr. Michael Elliot, and Dr. Jeremy Taylor
