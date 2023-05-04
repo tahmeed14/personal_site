@@ -1,0 +1,73 @@
+---
+title: "Undergraduate Education (B.S.)"
+---
+
+<h3><b>Degree</b></h3>
+
+Bachelor of Science, Statistics
+
+Honors Program, College of Literature, Science, & Arts
+
+University of Michigan, Ann Arbor, April 2018
+
+. . .
+
+<h3><b>Synopsis</b></h3>
+
+- **Graduated**: Bachelor of Science degree with [Distinction]() and [Honors]()  in Statistics
+
+- **Undergraduate Thesis**: [Introduction to Sequential Multiple Assignment Randomized Trials with Zero Inflated Count Outcomes for the Development of Dynmaic Treatment Regimens: with application to substance use research]()
+
+- **Thesis Advisors**: [Jamie Yap](https://jamieyap.github.io/), [Dr. Daniel Almirall](https://lsa.umich.edu/stats/people/faculty/DanielAlmirall.html), and [Dr. Inbal Nahum-Shani](http://www-personal.umich.edu/~inbal/)
+
+. . .
+
+<h3><b>Relevant Courses</b></h3>
+
+<h4><b>Statistics & Mathematics</b></h4>
+
+- [STATS 250: Intro to Statistics & Data Analysis]() with Dr. Brenda Gunderson
+- [STATS 404: Effective Communications in Statistics]() with Dr. Mimi Ritter
+- [STATS 413: Applied Regression Analysis]() with Dr. Gongjun Xu
+- [STATS 415: Data Mining & Statistical Learning]() with Dr. Gunwoong Park
+- [STATS 425: Intro to Probability]() with Dr. Paul Green
+- [STATS 426: Intro to Theoretical Statistics]() with Dr. Naisyin Wang
+- [STATS 449: Topics in Biostatistics]() with Dr. Paul Green
+- [MATH 217: Linear Algebra (Theory & Application)]() with Dr. David Goluskin
+- [MATH 451: Real Analysis (Theory of Calculus)]() with Dr. Beatrice-Helen Vritsiou
+
+<h4><b>Computer Science & Informatics</b></h4>
+
+- [EECS 183: Elemntary Programming Concepts]() (C++/Python) with Maxim Aleksa
+- [EECS 280: Programming & Intro Data Structures]() (C++) with Dr. Andrew DeOrio
+- [SI 206: Data-Oriented Programming]() (Python) with Jackie Cohen
+- [SI 330: Data Manipulation]() (Python) with Dr. Chris Teplovs
+- [STATS 406: Computational Methods in Statistics]() (R) with Dr. Yves Atchade
+
+...
+
+Feel free to reach out to me with questions at [tureen@umich.edu]()
+
+<center>
+<b>Michigan Basketball beats Syracuse 68-65 circa Freshman Year</b>
+<img src="pictures\um_bball.jpg" style="height:250px; width:50%; border:1px solid; border-color:black">
+(Left to Right: Thomas, Dave, Me, and Dan)
+</center>
+
+<center>
+<b>Michigan Football finally defeats Ohio State 42-27 circa 3 years as alumni</b>
+<img src="pictures\umich_v_osu_2.jpg" style="height:300px; width:50%; border:1px solid; border-color:black">
+(Left to Right: Dave, Me, Dan, and Lucho)
+</center>
+
+
+
+
+
+
+
+
+
+
+
+

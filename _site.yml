@@ -8,7 +8,7 @@ navbar:
     - text: "About My"
       menu:
         - text: "Undergraduate Education"
-          href: about.html
+          href: undergrad.html
         - text: "Graduate Education (M.S.)"
           href: graduate.html
         - text: "Coding Projects"

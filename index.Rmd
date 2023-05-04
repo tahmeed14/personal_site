@@ -13,7 +13,7 @@ Data Scientist - Senior Associate at [KPMG US](https://www.kpmg.us/)\newline
 </center>
 
 <center>
-<img src="pictures\SB_crop.jpg" style="width:30%; border:2px solid; border-color:black">
+<img src="pictures\home_pic.jpg" style="width:30%; border:2px solid; border-color:black">
 </center>
 
 <center> 
@@ -67,7 +67,7 @@ My dad and my cousin introduced me to soccer through the [2002 World Cup](https:
 - [Michigan Athletics](https://mgoblue.com/) Fan
 - [Chelsea F.C.](https://www.chelseafc.com/en) Supporter
 - Played [Club Lacrosse](http://umichclublacrosse.com/) for University of Michigan
-- Published researcher in Sports Analytics ([StatsBomb](https://statsbomb.com/events/statsbomb-conference-2022/), [Frontiers](https://www.frontiersin.org/research-topics/16038/using-artificial-intelligence-to-enhance-sport-performance#articles))
+- Published researcher in and contributor to Sports Analytics ([StatsBomb](https://statsbomb.com/events/statsbomb-conference-2022/), [Frontiers](https://www.frontiersin.org/research-topics/16038/using-artificial-intelligence-to-enhance-sport-performance#articles))
 
 - **Places I have lived in**: 
   - Dhaka, Bangladesh

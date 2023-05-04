@@ -2,38 +2,69 @@
 title: "Graduate Education (M.S.)"
 ---
 
+<h3><b>Degree</b></h3>
 
-
-Masters of Science Candidate, Biostatistics
+Master of Science, Biostatistics
 
 Department of Biostatistics, School of Public Health
 
 University of Michigan, Ann Arbor, April 2020
 
-. . .
+...
 
-## Synopsis
+<h3><b>Synopsis</b></h3>
 
-- **Graduating**: in 2020
+- **Graduated**: Master of Science in Biostatics
 
-- **Research Advisor (Year 1)**: [Dr. Brisa Sanchez](https://sph.umich.edu/faculty-profiles/sanchez-brisa.html) (2018-Present)
+- **Year 1** 
+  - **Research Advisor:** [Dr. Brisa Sanchez](https://sph.umich.edu/faculty-profiles/sanchez-brisa.html) (2018-2019)
+  - **Domain:** Built Infrastructue & Environmental Health
 
-- **Research Advisor (Year 2)**: [Dr. Jian Kang](https://sph.umich.edu/faculty-profiles/kang-jian.html) (2019 - Present)
-
+- **Year 2**
+  - **Research Advisor:** [Dr. Jian Kang](https://sph.umich.edu/faculty-profiles/kang-jian.html) (2019 - 2020)
+  - **Domain:** Machine Learning in Statistical Brain Imaging
+  
+  
 - **Academic Advisor**: [Dr. Kelley Kidwell](https://sph.umich.edu/faculty-profiles/kidwell-kelley.html)
 
-
 . . .
 
-## Favorite Courses
+<h3><b>Relevant Courses</b></h3>
 
-- [BSTAT 615: Statistical Computing](https://sph.umich.edu/biostat/course.php?courseID=BIOSTAT615) with Dr. Jian Kang
+<h4><b>Fall 2018</b></h4>
 
-- [SI 630: Natural Language Processing and its Algorithms](https://www.si.umich.edu/programs/courses/630) with Dr. David Jurgens
+- [BIOSTAT 601: Probability & Distribution Theory]() with Dr. Lu Wang
+- [BIOSTAT 605: Intro to SAS Programming]() with Stephen Salerno
+- [BIOSTAT 615: Statistical Computing]() with Dr. Jian Kang
+- [BIOSTAT 650: Theory & Application of Linear Regression]() with Dr. Mousumi Banerjee
 
-- [BSTAT 699: Analysis Of Biostatistical Investigations](https://sph.umich.edu/academics/courses/course.php?courseID=BIOSTAT699) with Dr. Phil Boonstra, Dr. Mike Elliot, and Dr. Jeremy Taylor
+<h4><b>Winter 2019</b></h4>
+- [BIOSTAT 602: Biostatistical Inference]() with Dr. Min Zhang
+- [BIOSTAT 651: Theory & Application of Generalized Linear Models]() with Dr.Veera Baladandayuthapani
+- [STATS 551 Bayesian Modeling]() with Dr.Yang Chen
+- [SI 630: Natural Language Processing (Algorithms & People)]() with Dr. David Jurgens
+- [SURVMETH 895: Methodological Seminars]() with Dr. Brady West 
+
+<h4><b>Fall 2019</b></h4>
+- [BIOSTAT 619: Clinical Trials]() with Dr. Kelley Kidwell
+- [BIOSTAT 625: Big Data Computing]() with Dr. Hui Jiang
+- [BIOSTAT 653: Theory & Application of Longitudinal Data Analysis]() with Dr. Zhenke Wu
+- [BIOSTAT 675: Survival Analysis]() with Dr. Yi Li
+- [BIOSTAT 803: Biostatistics in Cancer Seminar] with Dr. Jeremy Taylor
+
+<h4><b>Winter 2020</b></h4>
+- [BIOSTAT 699: Biostatiscal Investigations]() with Dr. Phil Boonstra, Dr. Michael Elliot, and Dr. Jeremy Taylor
+- [PH512: Principles of Epidemiology for Public Health]() with Dr. Briana Mezuk & Dr. Miatta Buxton
+- [PUBPOL 754: Research Seminar in Science & Technology]() with Dr. Jim Duderstadt
+
 
 ...
 
 
 Feel free to contact me at [tureen@umich.edu]()
+
+<center>
+<b>My classmates from the 2020 Biostatistics Cohort and I getting ready for a photo circa 2019</b>
+<img src="pictures\sph.jpg" style="width:100%; border:1px solid; border-color:black">
+(Left to Right: Jane, Madeline, Deesha, Evan, Kim, Me, Amy's backpack, Amy, and Huajun)
+</center>
