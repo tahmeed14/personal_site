@@ -65,6 +65,6 @@ Feel free to contact me at [tureen@umich.edu]()
 
 <center>
 <b>My classmates from the 2020 Biostatistics Cohort and I getting ready for a photo circa 2019</b>
-<img src="pictures\sph.jpg" style="width:100%; border:1px solid; border-color:black">
+<img src="pictures\sph.jpg" style="border:1px solid; border-color:black">
 (Left to Right: Jane, Madeline, Deesha, Evan, Kim, Me, Amy's backpack, Amy, and Huajun)
 </center>

@@ -50,7 +50,7 @@ Feel free to reach out to me with questions at [tureen@umich.edu]()
 
 <center>
 <b>Michigan Basketball beats Syracuse 68-65 circa Freshman Year</b>
-<img src="pictures\um_bball.jpg" style="height:250px; width:50%; border:1px solid; border-color:black">
+<img src="pictures\um_bball.jpg" style="height:290px; width:50%; border:1px solid; border-color:black">
 (Left to Right: Thomas, Dave, Me, and Dan)
 </center>
 
