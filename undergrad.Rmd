@@ -55,6 +55,10 @@ Feel free to reach out to me with questions at [tureen@umich.edu]()
 </center>
 
 <center>
+<img src="pictures\um_bball.jpg">
+</center>
+
+<center>
 <b>Michigan Football finally defeats Ohio State 42-27 circa 3 years as alumni</b>
 <img src="pictures\umich_v_osu_2.jpg" style="height:300px; width:50%; border:1px solid; border-color:black">
 (Left to Right: Dave, Me, Dan, and Lucho)
