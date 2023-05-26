@@ -38,7 +38,7 @@ University of Michigan, Ann Arbor, April 2018
 
 <h4><b>Computer Science & Informatics</b></h4>
 
-- [EECS 183: Elemntary Programming Concepts]() (C++/Python) with Maxim Aleksa
+- [EECS 183: Elementary Programming Concepts]() (C++/Python) with Maxim Aleksa
 - [EECS 280: Programming & Intro Data Structures]() (C++) with Dr. Andrew DeOrio
 - [SI 206: Data-Oriented Programming]() (Python) with Jackie Cohen
 - [SI 330: Data Manipulation]() (Python) with Dr. Chris Teplovs

@@ -3,19 +3,6 @@ title: "Projects"
 date: "Last Updated 1/8/2019"
 ---
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-### Research Projects (Statistics/Data Science)
-
-- 
-
 ### Data Science Projects
 
 - **A Time-To-Event Analysis of Heart Failure using Electronic Health Records** [[Poster](https://github.com/tahmeed14/survival-analysis-heart-failure-EHR/blob/master/symposium_poster.pdf)]  [[Presentation Slides](https://github.com/tahmeed14/survival-analysis-heart-failure-EHR/blob/master/appliedstats_presentation.pdf)]  [[Written Report](https://github.com/tahmeed14/survival-analysis-heart-failure-EHR/blob/master/appliedstats_written_report.pdf)]  [[Code](https://github.com/tahmeed14/survival-analysis-heart-failure-EHR/blob/master/heartfailure_EHR_code.R)]
@@ -33,16 +20,6 @@ date: "Last Updated 1/8/2019"
 - **Alcoholism in Portuguese College Students:** Finding the 'Best' Model for Classifying Alcoholism [[Written Report](https://github.com/tahmeed14/classification-models-for-alcoholism/blob/master/alcoholism_classification/written_report.pdf)]  [[Code](https://github.com/tahmeed14/classification-models-for-alcoholism/blob/master/alcoholism_classification/alcoholism_code_tureenkearnszheng.R)]
 
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-  
 ### Software Dev. Projects
 
 - **Euchre:** Playable simulator of the popular Michigan card game, Euchre
@@ -63,16 +40,6 @@ date: "Last Updated 1/8/2019"
 - **Image Resizing:** C++ program that mutates and manipulates pixels in image files (for laughs?)
 
 - **Price of Cupcakes:** C++ Implemented Calculator for generating the costs of different cupcake recipes 
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
 
 ### Mini Data-driven Projects
 
