@@ -14,7 +14,7 @@ date: "Last Updated 1/8/2019"
 - **Natural Langugage Processing of Piazza Posts:** A C++ Implementation of the Naive Bayes Classifier [[Description]()]  [Code is private]
 
 
-- **Top Flight British Soccer over the Years:** Time Series Visualization of the English Premier League over the Years [[Presentation Slides](https://github.com/tahmeed14/time-series-viz-english-premier-league/blob/master/presentation_slides_Tureen.pdf)]  [[Written Report](https://github.com/tahmeed14/time-series-viz-english-premier-league/blob/master/visualization_report.pdf)]  [[Code Repository](https://github.com/tahmeed14/time-series-viz-english-premier-league)]
+- **Top Flight English Soccer over the Years:** Time Series Visualization of the English Premier League over the Years [[Presentation Slides](https://github.com/tahmeed14/time-series-viz-english-premier-league/blob/master/presentation_slides_Tureen.pdf)]  [[Written Report](https://github.com/tahmeed14/time-series-viz-english-premier-league/blob/master/visualization_report.pdf)]  [[Code Repository](https://github.com/tahmeed14/time-series-viz-english-premier-league)]
 
 
 - **Alcoholism in Portuguese College Students:** Finding the 'Best' Model for Classifying Alcoholism [[Written Report](https://github.com/tahmeed14/classification-models-for-alcoholism/blob/master/alcoholism_classification/written_report.pdf)]  [[Code](https://github.com/tahmeed14/classification-models-for-alcoholism/blob/master/alcoholism_classification/alcoholism_code_tureenkearnszheng.R)]

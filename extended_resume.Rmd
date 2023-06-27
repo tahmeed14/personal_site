@@ -1,0 +1,31 @@
+---
+title: ''
+---
+
+<center> <h1><b>Extended Resume</b></h1> </center>
+<center> 
+<center> <h3><b>Tahmeed Tureen</b></h3> </center>
+Data Scientist - Senior Associate at [KPMG US](https://www.kpmg.us/)\newline
+
+<a href="https://www.linkedin.com/in/tahmeed-tureen-79567376" class="fa fa-linkedin fa-lg"></a> | <a href="https://twitter.com/TTureen" class="fa fa-twitter fa-lg"></a> | <a href="https://github.com/tahmeed14" class="fa fa-github fa-lg"></a>
+
+</div>
+<div style="margin-bottom:10px;">
+</div>
+
+<p style="text-align:left;">
+  <b> KPMG US <br> Data Scientist - Senior Associate </b>
+    <span style="float:right;">
+      October 2022 - Present <br> </b>
+    </span>
+</p>
+
+**Fac**
+
+- 
+
+- 
+
+- 
+
+**Hospital Claims Reporting**
