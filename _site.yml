@@ -28,13 +28,8 @@ navbar:
           icon: fa-github fa-lg
     - text: "Projects"
       href: projects.html
-    # - text: "Research"
-    #   href: research.html
     - text: "The People"
       href: people.html
-    # - text: "Activities & Clubs"
-    #   href: extras.html
-
 output:
   html_document:
     theme: yeti # yeti # united # readable
