@@ -1,31 +1,30 @@
 ---
-title: ''
+title: 'UNDER CONSTRUCTION (please ignore page)'
 ---
 
 <center> <h1><b>Extended Resume</b></h1> </center>
-<center> 
+<center>
 <center> <h3><b>Tahmeed Tureen</b></h3> </center>
 Data Scientist - Senior Associate at [KPMG US](https://www.kpmg.us/)\newline
 
 <a href="https://www.linkedin.com/in/tahmeed-tureen-79567376" class="fa fa-linkedin fa-lg"></a> | <a href="https://twitter.com/TTureen" class="fa fa-twitter fa-lg"></a> | <a href="https://github.com/tahmeed14" class="fa fa-github fa-lg"></a>
+</center>
 
+<div>
+**Name**: Soccer Player Impact on Expected Goals (xG) - StatsBomb Conference 2022<br>
+**Timeline**: July 2022 - Sep 2022<br>
+**To View**: [Published Paper]() | [Conference Presentation]()<br>
+**Domain Science**: Sports Analytics, Statistical Inference, Observational Data<br>
+
+- Designed and developed a reusable statistical inference pipeline in R using hierarchical regression models to estimate individual player impact on goal-scoring odds in European soccer; presented findings at the 2022 StatsBomb Conference in London
+- Developed player-adjusted expected goals (xG) models using generalized linear mixed models (GLMMs) with random intercepts at the player level to account for the nested structure of football event data
+- Estimated each player’s contribution to shot success (EPI) by quantifying their individual impact on xG, allowing for differentiation between players even when shot characteristics are identical or statistically similar
+- Performed stratified modeling and analysis for the English Premier League (EPL) and Women’s Super League (WSL), uncovering key differences in shot predictors (e.g., lob shots, pressure, shot angle) across the two leagues
+- Engineered features from **StatsBomb** event-level data, including distance to goal, defenders between shot and goal, shot angle, and goalkeeper position, to support interpretable modeling of goal probabilities
+- Conducted cross-league comparisons that identified Heung-Min Son and Vivianne Miedema as the "best" goal scorers in their respective leagues; offered scouting-relevant insights through model-based over and underperformance analyses for all players in the sample space
+- Discussed the extensibility of the GLMM framework to other advanced football metrics including expected assists (xA), post-shot xG (PSxG), and expected threat (xT), enabling player impact assessment across multiple dimensions in football analytics
+- Proposed model extensions such as varying-slope GLMMs and team-level random effects to account for additional hierarchy; discussed Bayesian alternatives for more flexible inference
+- Validated model interpretability and predictive capacity through empirical comparisons against non-hierarchical baselines; emphasized the value of model explainability over raw predictive accuracy for xG modeling
+- Highlighted key methodological trade-offs in applying post-shot features (PSxG vs. xG) and discussed implications for model interpretation and downstream decision-making
 </div>
-<div style="margin-bottom:10px;">
-</div>
 
-<p style="text-align:left;">
-  <b> KPMG US <br> Data Scientist - Senior Associate </b>
-    <span style="float:right;">
-      October 2022 - Present <br> </b>
-    </span>
-</p>
-
-**Fac**
-
-- 
-
-- 
-
-- 
-
-**Hospital Claims Reporting**

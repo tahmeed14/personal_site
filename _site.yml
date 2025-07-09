@@ -5,6 +5,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Online Resume (In Dev.)"
+      href: extended_resume.html
     - text: "About My"
       menu:
         - text: "Undergraduate Education"

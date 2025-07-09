@@ -2,18 +2,6 @@
 title: "Teaching Experience"
 ---
 
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
 ## Teaching Assistant
 - [SI 506 : Programming I](https://www.si.umich.edu/programs/courses/506#gsc.tab=0)
 - Supervisor: [Dr. Jackie Cohen](https://www.si.umich.edu/news-events/people-profiles/faces-umsi/jackie-cohen)
