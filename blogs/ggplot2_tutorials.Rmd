@@ -1,0 +1,21 @@
+---
+title: "Helpful ggplot2 code snippets for personal use"
+output: html_document
+knit: ../build_site.R
+---
+
+In this blog... or more appropriately personal bank of code snippets, I document a bunch of helpful ```ggplot2``` code that I have used throughout my life as an aspiring statistician.
+
+## Bar Chart
+
+```{r}
+print("hello barcharts!")
+```
+
+## Pie Chart Code
+
+```{r}
+print("hello pie charts")
+```
+
+

@@ -28,3 +28,14 @@ Data Scientist - Senior Associate at [KPMG US](https://www.kpmg.us/)\newline
 - Highlighted key methodological trade-offs in applying post-shot features (PSxG vs. xG) and discussed implications for model interpretation and downstream decision-making
 </div>
 
+<div>
+**Name**: <br>
+**Timeline**: <br>
+**To View**: <br>
+**Domain Science**: <br>
+</div>
+
+
+
+
+

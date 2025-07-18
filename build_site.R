@@ -4,5 +4,9 @@
 #working on at the time. 
 # setwd("/Users/Tahmeed/Desktop/Important/personal_site")
 
-#render your sweet site. 
-rmarkdown::render_site()
+# (1) render the main site
+rmarkdown::render_site(".")
+
+# (2) render the blogs site
+rmarkdown::render_site("blogs")
+

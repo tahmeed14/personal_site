@@ -1,0 +1,53 @@
+---
+title: "Data Blogs/Tutorials (UNDER CONSTRUCTION PLEASE IGNORE)"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    number_sections: true
+    theme: yeti
+---
+
+## Data Science
+
+### Visualizations
+
+- [ggplot2](blogs/ggplot2_tutorials.html)
+
+## Soccer (Football) Analytics
+
+### Chelsea F.C.
+
+<details>
+<summary><strong>Click to expand Section</strong></summary>
+
+Here’s some content inside the collapsible section.
+
+- Bullet 1
+- Bullet 2
+
+</details>
+
+<button class="btn btn-primary" data-toggle="collapse" data-target="#section1">
+  Chelsea F.C.
+</button>
+<button class="btn btn-primary" data-toggle="collapse" data-target="#section2">
+  Tottenham
+</button>
+
+<div id="section1" class="collapse">
+  
+### Chelsea Section
+
+Here’s some text inside the collapsed section.
+
+</div>
+
+<div id="section2" class="collapse">
+  
+### Tottenham Hotspur Section
+
+Here’s some text inside the collapsed section.
+
+</div>
+

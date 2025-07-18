@@ -1,12 +1,10 @@
 name: "Tahmeed-Tureen"
-output_dir: "."
+output_dir: "." # output directory (renders to this directory)
 navbar:
   title: "Tahmeed Tureen"
   left:
     - text: "Home"
       href: index.html
-    - text: "Online Resume (In Dev.)"
-      href: extended_resume.html
     - text: "About My"
       menu:
         - text: "Undergraduate Education"
@@ -28,6 +26,10 @@ navbar:
         - text: GitHub
           href: https://github.com/tahmeed14
           icon: fa-github fa-lg
+    - text: "Online Resume (In Dev.)"
+      href: extended_resume.html
+    - text: "Blogs/Tutorials"
+      href: blogs.html
     - text: "Projects"
       href: projects.html
     - text: "The People"

@@ -1,0 +1,13 @@
+name: "Tahmeed Blogs"
+output_dir: "." # Tell RMarkdown that you are rendering in the blogs/ folder
+navbar:
+  title: "Tahmeed's Blogs & Tutorials"
+  left:
+    - text: "Return to Website"
+      href: ../index.html
+    #- text: "Research Papers To Read"
+     # href: 
+output:
+  html_document:
+    theme: yeti # yeti # united # readable
+    css: style.css
