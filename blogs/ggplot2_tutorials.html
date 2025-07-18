@@ -244,6 +244,9 @@ $(document).ready(function () {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
+  <a href="../blogs.html">Blogs Homepage</a>
+</li>
+<li>
   <a href="../index.html">Return to Website</a>
 </li>
       </ul>
@@ -274,8 +277,29 @@ throughout my life as an aspiring statistician.</p>
 </div>
 <div id="pie-chart-code" class="section level2">
 <h2>Pie Chart Code</h2>
-<pre class="r"><code>print(&quot;hello pie charts&quot;)</code></pre>
-<pre><code>## [1] &quot;hello pie charts&quot;</code></pre>
+<pre><code>##   event_id     player_name
+## 1       43 Nicolas Jackson
+## 2       48 Nicolas Jackson
+## 3       14 Nicolas Jackson
+## 4       46  Enzo Fernandez
+## 5       16  Enzo Fernandez</code></pre>
+<pre class="r"><code># First we have to calculate the frequencies of each player in the data
+count_data &lt;- event_data |&gt; 
+  dplyr::count(player_name) |&gt; # creates a new variable called &#39;n&#39;
+  dplyr::mutate(percent = n / sum(n) * 100.0)
+
+count_data |&gt; 
+  ggplot2::ggplot(aes(x = &quot;&quot;, y = n, fill = player_name)) +
+  ggplot2::geom_bar(width = 1, stat = &quot;identity&quot;) + # we use identity because the table has counts
+  ggplot2::coord_polar(&quot;y&quot;) + # we need this so we can create the pie chart
+  ggplot2::theme_void() +
+  ggplot2::geom_text(aes(label = paste0(round(percent, 1), &quot;%&quot;)),
+                     position = position_stack(vjust = 0.5),
+                     color = &#39;white&#39;) +
+  ggtitle(label = &quot;Player Events by Percentage&quot;) +
+  labs(fill = &quot;Player Name&quot;) + # we specify fill because of the aes(fill =) earlier in the snippet
+  theme(plot.title = element_text(hjust = 0.5)) # center the title</code></pre>
+<p><img src="ggplot2_tutorials_files/figure-html/unnamed-chunk-3-1.png" width="672" /></p>
 </div>
 
 

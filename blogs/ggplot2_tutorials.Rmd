@@ -14,8 +14,39 @@ print("hello barcharts!")
 
 ## Pie Chart Code
 
-```{r}
-print("hello pie charts")
+```{r, echo = F, warning = F, message=F}
+# Create a random dataset using Poisson Distribution
+library(dplyr)
+library(ggplot2)
+set.seed(14)
+names <- c("Nicolas Jackson", "Enzo Fernandez", "Cole Palmer")
+random_ints <- rpois(n = 3, lambda = 5)
+player_name <- c()
+event_id <- sample(x = 1:50, size = sum(random_ints), replace = FALSE)
+
+for (i in 1:length(names)) {
+  player_name <- c(player_name, rep(names[i], times = random_ints[i]))
+}
+
+event_data <- data.frame(event_id, player_name)
+head(event_data, 5)
 ```
 
+```{r}
+# First we have to calculate the frequencies of each player in the data
+count_data <- event_data |> 
+  dplyr::count(player_name) |> # creates a new variable called 'n'
+  dplyr::mutate(percent = n / sum(n) * 100.0)
 
+count_data |> 
+  ggplot2::ggplot(aes(x = "", y = n, fill = player_name)) +
+  ggplot2::geom_bar(width = 1, stat = "identity") + # we use identity because the table has counts
+  ggplot2::coord_polar("y") + # we need this so we can create the pie chart
+  ggplot2::theme_void() +
+  ggplot2::geom_text(aes(label = paste0(round(percent, 1), "%")),
+                     position = position_stack(vjust = 0.5),
+                     color = 'white') +
+  ggtitle(label = "Player Events by Percentage") +
+  labs(fill = "Player Name") + # we specify fill because of the aes(fill =) earlier in the snippet
+  theme(plot.title = element_text(hjust = 0.5)) # center the title
+```

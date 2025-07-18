@@ -3,6 +3,8 @@ output_dir: "." # Tell RMarkdown that you are rendering in the blogs/ folder
 navbar:
   title: "Tahmeed's Blogs & Tutorials"
   left:
+    - text: "Blogs Homepage"
+      href: ../blogs.html
     - text: "Return to Website"
       href: ../index.html
     #- text: "Research Papers To Read"
