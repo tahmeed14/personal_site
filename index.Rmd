@@ -13,13 +13,13 @@ Data Scientist - Senior Associate at [KPMG US](https://www.kpmg.us/)\newline
 </center>
 
 <center>
-<img src="pictures\home_pic.jpg" style="width:30%; border:2px solid; border-color:black">
+<img src="pictures\spain_prof.jpeg" style="width:30%; border:2px solid; border-color:black">
 </center>
 
 <center> 
 <h3><b>About Me</b></h3>
 
-I am currently a Data Scientist at [KPMG US](https://www.kpmg.us/) where I work in the Data & Analytics branch with the [Signals Team](https://advisory-marketing.us.kpmg.com/speed/ai-signals.html).\newline 
+I am currently a Data Scientist - Senior Associate at [KPMG US](https://www.kpmg.us/) where I work in the Data & Analytics branch with the [Signals Team](https://advisory-marketing.us.kpmg.com/speed/ai-signals.html).\newline 
 
 Although my job title is "Data Scientist", I was formally trained as a Statistician and I enjoy approaching problems from a "statistician's perspective". Outside of my professional life, I love to apply my knowledge of statistics to soccer (football) analytics and also dive deep into learning more about the tactical aspects of the sport.\newline 
 
@@ -33,6 +33,10 @@ My dad and cousin introduced me to soccer through the [2002 World Cup](https://w
 <center> 
 <h3><b>Previously...</b></h3>
 </center>
+
+- **2021-2022**: Data Scientist on the [Signals Team]() at [KPMG]() addressing both external and internal client projects
+
+- **2020-2021**: Data Scientist at [KPMG]() working as an Individual Contributor (IC) addressing client projects across several industries
 
 - **2019-2020**: Graduate Student Research Assistant at [Kang Lab](http://www-personal.umich.edu/~jiankang/index.html) working on Machine Learning applied to Statistical Brain Imaging
 
@@ -66,8 +70,7 @@ My dad and cousin introduced me to soccer through the [2002 World Cup](https://w
   - Class of 2020 (MS in [Biostatistics](https://sph.umich.edu/biostat/))\newline
 - Published researcher and contributor in the Sports Analytics community ([StatsBomb](https://statsbomb.com/events/statsbomb-conference-2022/), [Frontiers](https://www.frontiersin.org/research-topics/16038/using-artificial-intelligence-to-enhance-sport-performance#articles))
 - Played [Club Lacrosse](http://umichclublacrosse.com/) for University of Michigan
-- [Michigan Athletics](https://mgoblue.com/) Fan
-- [Chelsea F.C.](https://www.chelseafc.com/en) Supporter
+- Both of my parents are statisticians!
 
 - **Places I have lived in**: 
   - Dhaka, Bangladesh

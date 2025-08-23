@@ -28,6 +28,9 @@ navbar:
         - text: GitHub
           href: https://github.com/tahmeed14
           icon: fa-github fa-lg
+        - text: Spotify
+          href: https://open.spotify.com/user/tahmeeeed14
+          icon: fa-spotify fa-lg
 
 ##    - text: "Blogs/Tutorials"
 ##      href: blogs.html
