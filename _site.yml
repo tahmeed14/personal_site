@@ -5,8 +5,12 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Online Resume (In Dev.)"
-      href: extended_resume.html
+    - text: "Online Resume"
+      menu:
+        - text: "Professional Experience"
+          href: extended_resume.html
+        - text: "Selected Projects"
+          href: selected_projects.html
     - text: "About My"
       menu:
         - text: "Graduate Education (M.S.)"

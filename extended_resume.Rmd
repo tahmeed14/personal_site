@@ -1,5 +1,5 @@
 ---
-title: 'PAGE IS CURRENTLY BEING UPDATED. LAST REFRESH: 7/24/2025'
+title: 'LAST REFRESH: 9/17/2025'
 ---
 
 <center> <h1><b>Extended Resume</b></h1> </center>
@@ -16,7 +16,7 @@ Data Scientist - Senior Associate at [KPMG US](https://www.kpmg.us/)\newline
 
 ## **Executive Summary**
 
-Senior Data Scientist with 4+ years of industry experience working on fast-moving and high-impact projects related to product pricing, fraud detection, customer demand, supply chain, & healthcare analysis. Proven record of translating complex models into executive-level strategies, influencing large scale revenue and client pursuits at KPMG. Proficient in [**Python**](), [**SQ**L](), [**R**](), and modern dashboard tools like [**PowerBI**]() and [**Streamlit**]()
+Senior Data Scientist with 5+ years of industry experience working on fast-moving and high-impact projects related to product pricing, fraud detection, customer demand, supply chain, & healthcare analysis. Proven record of translating complex models into executive-level strategies, influencing large scale revenue and client pursuits at KPMG. Proficient in [**Python**](), [**SQ**L](), [**R**](), and modern dashboard tools like [**PowerBI**]() and [**Streamlit**]()
 
 <br>
 
@@ -25,60 +25,76 @@ Senior Data Scientist with 4+ years of industry experience working on fast-movin
 ### ***Senior Data Scientist**, [KPMG](https://www.linkedin.com/company/kpmg-us/posts/?feedView=all) | Chicago, IL & Ann Arbor, MI (Hybrid)*
 **Timeline:** Sep 2022 - Present
 
-#### **Client(s): KPMG Healthcare & Life Sciences Go-To-Market Teams**
+**Client(s): KPMG Go-To-Market Teams**
 
-- Act as a **co-lead data scientist** and [**Snowflake**]() database manager supporting KPMG’s client-facing teams in the healthcare and life sciences sector. Responsible for end-to-end data workflows– including extraction, processing, and analysis using [**SQL**]() & [**Python**]()— that drive insights for healthcare-related client pursuits & strategies
+- Implemented a hierarchical multi-agent AI orchestration system using LangChain, Python, SQL, and Streamlit, enabling dynamic interaction between users and KPMG-owned industry & company financial data and documents 
 
-- Developed scalable, modular [**SQL**]() scripts to compute hospital days of care metrics and benchmark them against CMS standards, enabling identification of procedures or diagnoses with significant deviations from expected care durations; adopted across 20+ projects, influencing approximately $[hidden*](## "Contact me via LinkedIn or Email!") in collective revenue for KPMG
+- Built a supervisor-agent architecture, where a central interface "supervsior" agent routes queries to domain-specific supervisor agents, each managing their own specialized task agents (e.g., data retrieval, document summarization, & company screening etc.)
 
-- Deployed processed data to a secure [**Azure**]() environment via [**DBeaver**](), integrating with a **Large Language Model (LLM)** to enable real-time querying and insights through a [**Streamlit**]() app deployed using **Azure Pipelines**; empowered users to explore population health statistics and receive personalized hospital-level analytical reports on trends such as patient inflow, bed utilization, and regional care variation
+- Deployed via a Streamlit frontend enabling KPMG sales engineers & analysts to explore proprietary datasets and accelerate client and project proposal development with context-aware AI agent workflows
 
-#### **Client(s): Small Budget-Airline & KPMG Audit Team**
+**Client(s): KPMG Healthcare & Life Sciences Go-To-Market Teams**
 
-- Led the ideation & development of a **dynamic time series regression** modeling pipeline for a budget airline using client pricing data, external observational data, and **quasi-experimental** design techniques to uncover demand drivers and simulate counterfactual ticket sales, contributing to $[hidden*](## "Contact me via LinkedIn or Email!") in tagged revenue
+- Serve as co-lead data scientist and database manager for KPMG’s healthcare and life sciences teams, owning end-to-end data workflows using SQL and Python to support client strategy and analytics. 
 
-- Directed the build of a custom PowerBI dashboard, enabling “A/B-style” incrementality testing by embedding regression-based counterfactual estimators to allow business analysts to simulate different ticket sale scenarios
+- Implemented multiple scalable, modular SQL & Python scripts to manipulate electronic health claims data and address specific research questions on Snowflake; Results have been adopted across 30+ client projects, delivering actionable insights to healthcare professionals and influencing multi-million-dollar revenue outcomes
 
-- Augmented client datasets with external U.S. domestic flight data from the Bureau of Transportation Statistics (BTS), leveraging [**pandas**]() in [**Python**](), to enrich the feature space and strengthen **model inference** from observational data
 
-#### **Client(s): KPMG Supply Chain & Procurement Go-To-Market Teams**
+**Client(s): Small Budget-Airline & KPMG Audit Team**
 
-- Developed a novel metric and project roadmap to quantify “stress” in the U.S. supply chain using **latent variable analysis** and **time series forecasting** in [**R**](); results were published at the [Association for Supply Chain Management Conference](https://www.ascm.org/making-an-impact/research/supply-chain-stability-index/) and supported auxiliary analyses for multiple KPMG client pursuits
+- Led the development of a dynamic time series regression and quasi-experimental modeling pipeline to estimate the causal impact of route strategies on ticket sales for a budget airline, integrating client data with external U.S. flight data from the Bureau of Transportation Statistics (BTS)
 
-- Managed a cross-functional team within an [**Agile**]() framework using a [**JIRA**]() kanban board to manage sprints, tasks, and timelines—transforming a one-off conference model into a scalable, monthly-refresh [**Python**]() pipeline for internal KPMG stakeholders with broader client project reuse
+- Delivered findings via an interactive PowerBI dashboard, enabling business & audit analysts to run A/B-style scenario simulations and explore counterfactual outcomes for ticket sale optimization
 
-- Extracted relevant data using [**SQL**]() from 10 tables hosted on an internal KPMG repository and engineered features using [**Python to create an analytical dataset for model development
+
+**Client(s): KPMG Supply Chain & Procurement Go-To-Market Teams**
+
+- Developed a novel supply chain “stress” metric in collaboration with domain experts, using latent variable analysis, time series forecasting, and feature engineering in R and Python to quantify systemic disruptions across U.S. supply chains
+
+- Managed a cross-functional team within an Agile (JIRA-based) framework to deliver a scalable, auto-refreshing analytics pipeline
+
+- The metric was published at the [ASCM Conference](https://www.ascm.org/making-an-impact/research/supply-chain-stability-index/) and subsequently reused across multiple KPMG client pursuits, demonstrating its strategic value for answering critical operational and financial questions
 
 
 ### ***Data Scientist**, [KPMG](https://www.linkedin.com/company/kpmg-us/posts/?feedView=all) | Chicago, IL (Hybrid)*
 **Timeline:** Sep 2020 - Aug 2022
 
-#### **Client: Mid-sized Regional Insurance Company**
-- Improved existing homeowners insurance pricing pipelines with **generalized additive models (GAMs)** and external environmental features in [**R**](), boosting accuracy by ~5% in lift-gain analyses and directly contributing to a $[hidden*](## "Contact me via LinkedIn or Email!") re-subscription from a mid-sized regional insurance client
+**Client: Mid-sized Regional Insurance Company**
 
-- Built **Poisson, Gamma, and Tweedie regression** models on homeowner claims data to estimate **loss-cost** and **pure premiums** for various perils (e.g., fire, theft), validating models via lift-gains analysis and communicating tradeoffs between interpretability and predictive performance to business stakeholders using a custom [PowerBI]() dashboard
+- Improved KPMG’s homeowners insurance underwriting pipeline by building and validating generalized additive models (GAMs) and GLM-based regressions (Poisson, Gamma, Tweedie) to estimate loss-cost and pure premiums across various perils, integrating external environmental features to improve predictive accuracy
 
-- Implemented scalable scripts on [RStudio Server]() using internal KPMG **API**s & [dplyr]() in [R]()  to automate data extraction and feature engineering, enabling efficient, repeatable updates to the pricing model feature space with each iteration
+- Designed these models to mirror causal frameworks by simulating counterfactual scenarios (e.g. renovations to a home, age of roofing, and distance to nearest fire station etc.)
 
-#### **Client: KPMG Financial Services Go-To-Market Teams**
+- Automated data extraction and feature engineering workflows using R and internal APIs, enabling efficient, repeatable updates to the pricing models and delivering insights via a stakeholder-facing PowerBI dashboard
+
+**Client(s): Global Pharmaceutical Company & KPMG Procurement & Supply Chain team**
+
+- Developed a machine learning framework leveraging Extended Isolation Forests to assign anomaly scores, allowing teams to prioritize investigations based on adjustable risk thresholds. Integrated model outputs into a PowerBI dashboard, providing real-time visibility into transaction risk and supporting data-driven client decision-making.
+
+- Designed and implemented a Python-based data anonymization pipeline, using random name generators and join-preserving keys to securely handle B2B transaction data from five disparate sources. 
+
+- Engineered and merged these anonymized datasets into a unified modeling set with pandas, enabling exploratory analysis and anomaly detection across pharmaceutical vendor–retailer interactions. 
+
+- Collaborated with KPMG stakeholders and supply chain experts to define a high-impact feature space for detecting fraud and malpractice. 
+
+**Client: KPMG Financial Services Go-To-Market Teams**
+
+**Project: ESG Score Calculator**
+
 - Built a scalable [ESG (Environmental, Social, and Governance)]() scoring calculator using **logit-transformed penalized linear regression** in [**Python**](), enabling usage by **80+** engagement teams and influencing $[hidden*](## "Contact me via LinkedIn or Email!") in tagged revenue in ~**3** years; work recognized as key driver for promotion to Senior Data Scientist
+
+**Project: Reusable & Refreshing Data Curations**
 
 - Built scalable data curation pipelines in [**Python**]() and [**SQL**]() to extract, process, and maintain public and commercial datasets on a KPMG database ([**Azure**]()), enabling seamless collaboration with internal & external project teams by delivering refreshed, analysis-ready data for integration into modeling and analytics workflows with minimal engineering overhead
 
+**Project: Spatial Interpolation for Climate Risk**
+
 - Transformed commercial climate risk data for 15,000+ global companies into multiple geographic levels (e.g., ZIP code, county) and applied spatial interpolation techniques (**Kriging** and **Inverse Distance Weighting**) in [**Python**]() to impute missing scores, enabling auxiliary risk analysis offerings in KPMG client engagements across sectors
+
+**Project: Latent Variable Analysis on U.S. Neighborhoods**
 
 - Directed the end-to-end development of **35**+ latent market indicators (e.g., “environmental friendliness”) using **interpretable factor analysis** in [**Python**](), enabling white space analyses and feature selection across **10**+ go-to-market pursuits and client modeling pipelines
 
-#### **Client(s): Global Pharmaceutical Company & KPMG Procurement & Supply Chain team**
-- Designed and implemented a data **anonymization** pipeline in Python using random name generators and join-preserving keys to securely handle client-confidential business-to-business (B2B) transaction data from **5** disparate sources
-
-- Engineered and merged anonymized datasets into a unified modeling dataset using [**pandas**](), enabling exploratory analysis and **anomaly detection** across pharmaceutical vendor–retailer interactions
-
-- Collaborated closely with KPMG stakeholders and domain experts in procurement and supply chain to define a high-impact feature space tailored to detecting fraud and malpractice in B2B transactions
-
-- Developed a **machine learning** framework using **Extended Isolation Forests** to assign anomaly scores to vendor-retailer transactions, allowing users to prioritize and scale fraud investigations based on adjustable risk thresholds
-
-- Integrated model outputs into a [**PowerBI**]() dashboard, enabling Go-To-Market teams to visualize and monitor transaction risk in real time, driving data-informed decisions across client engagements
 
 ### ***Data Science Intern**, [Nielsen](https://www.linkedin.com/company/nielsen/) | Chicago, IL*
 **Timeline:** Jun 2019 - Jul 2019
@@ -89,64 +105,3 @@ Senior Data Scientist with 4+ years of industry experience working on fast-movin
 
 - Presented and demoed end-to-end data science workflow to both of Nielsen’s Data Science pillars using a custom-built [**RShiny**]() app, showcasing analytical insights and technical implementation at the conclusion of the internship
 
-## **Selected Projects**
-
-### *M.S. Biostatistics Consultancy Capstone Projects - University of Michigan* 
-
-#### **Phase IV Clinical Trial: Continuous Glucose Monitoring of Type II Diabetes Patients**<br>
-**Timeline**: Jan 2020 - Feb 2020 <br>
-**Domain Science**: [Clinical Trials](), [Causal Inference](), [Experimental Design]()<br>
-
-- Exported, loaded, and analyzed 26 weeks of data from a 25 patient **randomized cross-over phase IV clinical trial**, assessing the relative efficacy of two treatment drugs for type II diabetes using R
-
-- Engineered 3 clinically acceptable **glucose variability metrics** (i.e. time in range, time above range, and time below range) from high-frequency continuous glucose monitoring data collected via Abbott’s Freestlye Libre Pro device
-
-- Applied **linear mixed models** with logit-transformed outcomes to evaluate **drug effects on glucose variability**; calculated 95% confidence intervals to assess statistical significance of findings
-
-- Identified statistically significant **causal reduction** in hypoglycemia (time below range) with Drug X relative to Drug Y, while effects on other glucose measures were not clinically meaningful
-
-- Delivered insights with real-world clinical implications through a report and presentation, supporting evidence-based decisions in prescribing diabetes treatments based on glycemic variability. Final report was selected to be distributed to the principal investigator and clinical team
-
-#### **Population Level Behavioral Analysis: Menthol-Flavoring Impact on E-Cigarette Usage**
-
-**Timeline:** Feb 2020<br>
-**Domain Science**: [Population Health](), [Survey Methodology](), [Longitudinal Data Analysis]()
-
-- Conducted a **longitudinal behavioral analysis** using data from population assessment of tobacco and health (PATH) study to investigate whether menthol-flavored cigarette users were more likely to transition to e-cigarettes across six defined outcomes, including dual use and exclusive use patterns
-
-- Built and interpreted **multivariable logistic regression models** to assess associations between baseline menthol use and e-cigarette outcomes, adjusting for **confounding variables** such as days of cigarette use, age, sex, race/ethnicity, education, and income—factors known to affect tobacco use disparities.
-
-- Incorporated longitudinal **survey weights**, **clustering**, and **stratification** variables to account for the **complex sampling design** and **oversampling** of key subpopulations in the PATH dataset.
-
-- Engineered outcome measures across four survey waves to differentiate between **point-in-time** and **sustained e-cigarette usage** behaviors, leveraging the “all waves” longitudinal panel structure for richer inference.
-
-- Evaluated statistical significance of **adjusted odds ratios** using **95% confidence intervals** and **Wald test** p-values (α = 0.05); implemented modeling pipeline using the [**svydesign**]() and [**svyglm**]() packages in [**R**]()
-
-- Found no statistically significant associations between menthol-flavored cigarette use and increased likelihood of transitioning to e-cigarettes, contributing evidence to FDA policy discussions on menthol bans.
-
-## **Publications**
-
-### **Soccer Player Impact on Expected Goals (xG) - StatsBomb Conference 2022**<br>
-**Timeline**: July 2022 - Sep 2022<br>
-**To View**: [Published Paper](http://blogarchive.statsbomb.com/uploads/2022/09/Tahmeed-Tureen-and-Sigrid-Olthof-%E2%80%93-Estimated-Player-Impact-EPI-Quantifying-The-Effects-Of-Individual-Players-On-Football-Actions-Using-Hierarchical-Statistical-Models.pdf) | [Conference Presentation](https://www.youtube.com/watch?v=CzKCMUJ9yV8)<br>
-**Domain Science**: Sports Analytics, Statistical Inference, Observational Data<br>
-
-- Designed and developed a reusable statistical inference pipeline in [**R**]() using **hierarchical regression models** to estimate **individual player impact on goal-scoring odds** in European soccer; presented findings at the 2022 StatsBomb Conference in London
-
-- Developed player-adjusted expected goals (xG) models using **generalized linear mixed models** (GLMMs) with random intercepts at the player level to account for the nested structure of football event data
-
-- Estimated each player’s contribution to shot success (EPI) by quantifying their individual impact on xG, allowing for differentiation between players even when shot characteristics are identical or statistically similar
-
-- Performed stratified modeling and analysis for the English Premier League (EPL) and Women’s Super League (WSL), uncovering key differences in shot predictors (e.g., lob shots, pressure, shot angle) across the two leagues
-
-- Engineered features from **StatsBomb** event-level data, including distance to goal, defenders between shot and goal, shot angle, and goalkeeper position, to support **interpretable modeling of goal probabilities**
-
-- Conducted cross-league comparisons that identified Heung-Min Son and Vivianne Miedema as the "best" goal scorers in their respective leagues; offered **scouting-relevant insights** through model-based over- and under-performance analyses for all players in the sample space
-
-- Discussed the **extensibility** of the GLMM framework to other advanced football metrics including **expected assists** (xA), **post-shot xG** (PSxG), and **expected threat** (xT), enabling player impact assessment across multiple dimensions in football analytics
-
-- Proposed model extensions such as varying-slope GLMMs and team-level random effects to account for additional hierarchy in an academic setting; discussed Bayesian alternatives for more flexible inference
-
-- Validated model interpretability and predictive capacity through **empirical comparisons** against non-hierarchical baselines; emphasized the value of **model explainability** over raw predictive accuracy for xG modeling
-
-- Highlighted key methodological **trade-offs** in applying post-shot features (PSxG vs. xG) and discussed implications for model interpretation and downstream decision-making

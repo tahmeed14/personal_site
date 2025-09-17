@@ -1,0 +1,84 @@
+---
+title: "selected_projects"
+---
+
+<center> <h1><b>Extended Resume</b></h1> </center>
+<center>
+<center> <h3><b>Tahmeed Tureen</b></h3> </center>
+Data Scientist - Senior Associate at [KPMG US](https://www.kpmg.us/)\newline
+
+<a href="https://www.linkedin.com/in/tahmeed-tureen-79567376" class="fa fa-linkedin fa-lg"></a> | <a href="https://twitter.com/TTureen" class="fa fa-twitter fa-lg"></a> | <a href="https://github.com/tahmeed14" class="fa fa-github fa-lg"></a>
+</center>
+
+<br>
+<br>
+ 
+## **Executive Summary**
+
+Senior Data Scientist with 5+ years of industry experience working on fast-moving and high-impact projects related to product pricing, fraud detection, customer demand, supply chain, & healthcare analysis. Proven record of translating complex models into executive-level strategies, influencing large scale revenue and client pursuits at KPMG. Proficient in [**Python**](), [**SQ**L](), [**R**](), and modern dashboard tools like [**PowerBI**]() and [**Streamlit**]()
+
+<br>
+
+## **Selected Projects**
+
+### *M.S. Biostatistics Consultancy Capstone Projects - University of Michigan* 
+
+
+**Phase IV Clinical Trial: Continuous Glucose Monitoring of Type II Diabetes Patients**<br>
+**Timeline**: Jan 2020 - Feb 2020 <br>
+**Domain Science**: [Clinical Trials](), [Causal Inference](), [Experimental Design]()<br>
+
+- Exported, loaded, and analyzed 26 weeks of data from a 25 patient **randomized cross-over phase IV clinical trial**, assessing the relative efficacy of two treatment drugs for type II diabetes using R
+
+- Engineered 3 clinically acceptable **glucose variability metrics** (i.e. time in range, time above range, and time below range) from high-frequency continuous glucose monitoring data collected via Abbott’s Freestlye Libre Pro device
+
+- Applied **linear mixed models** with logit-transformed outcomes to evaluate **drug effects on glucose variability**; calculated 95% confidence intervals to assess statistical significance of findings
+
+- Identified statistically significant **causal reduction** in hypoglycemia (time below range) with Drug X relative to Drug Y, while effects on other glucose measures were not clinically meaningful
+
+- Delivered insights with real-world clinical implications through a report and presentation, supporting evidence-based decisions in prescribing diabetes treatments based on glycemic variability. Final report was selected to be distributed to the principal investigator and clinical team
+
+
+**Population Level Behavioral Analysis: Menthol-Flavoring Impact on E-Cigarette Usage**
+**Timeline:** Feb 2020<br>
+**Domain Science**: [Population Health](), [Survey Methodology](), [Longitudinal Data Analysis]()
+
+- Conducted a **longitudinal behavioral analysis** using data from population assessment of tobacco and health (PATH) study to investigate whether menthol-flavored cigarette users were more likely to transition to e-cigarettes across six defined outcomes, including dual use and exclusive use patterns
+
+- Built and interpreted **multivariable logistic regression models** to assess associations between baseline menthol use and e-cigarette outcomes, adjusting for **confounding variables** such as days of cigarette use, age, sex, race/ethnicity, education, and income—factors known to affect tobacco use disparities.
+
+- Incorporated longitudinal **survey weights**, **clustering**, and **stratification** variables to account for the **complex sampling design** and **oversampling** of key subpopulations in the PATH dataset.
+
+- Engineered outcome measures across four survey waves to differentiate between **point-in-time** and **sustained e-cigarette usage** behaviors, leveraging the “all waves” longitudinal panel structure for richer inference.
+
+- Evaluated statistical significance of **adjusted odds ratios** using **95% confidence intervals** and **Wald test** p-values (α = 0.05); implemented modeling pipeline using the [**svydesign**]() and [**svyglm**]() packages in [**R**]()
+
+- Found no statistically significant associations between menthol-flavored cigarette use and increased likelihood of transitioning to e-cigarettes, contributing evidence to FDA policy discussions on menthol bans.
+
+## **Publications**
+
+### **Soccer Player Impact on Expected Goals (xG) - StatsBomb Conference 2022**<br>
+**Timeline**: July 2022 - Sep 2022<br>
+**To View**: [Published Paper](http://blogarchive.statsbomb.com/uploads/2022/09/Tahmeed-Tureen-and-Sigrid-Olthof-%E2%80%93-Estimated-Player-Impact-EPI-Quantifying-The-Effects-Of-Individual-Players-On-Football-Actions-Using-Hierarchical-Statistical-Models.pdf) | [Conference Presentation](https://www.youtube.com/watch?v=CzKCMUJ9yV8)<br>
+**Domain Science**: Sports Analytics, Statistical Inference, Observational Data<br>
+
+- Designed and developed a reusable statistical inference pipeline in [**R**]() using **hierarchical regression models** to estimate **individual player impact on goal-scoring odds** in European soccer; presented findings at the 2022 StatsBomb Conference in London
+
+- Developed player-adjusted expected goals (xG) models using **generalized linear mixed models** (GLMMs) with random intercepts at the player level to account for the nested structure of football event data
+
+- Estimated each player’s contribution to shot success (EPI) by quantifying their individual impact on xG, allowing for differentiation between players even when shot characteristics are identical or statistically similar
+
+- Performed stratified modeling and analysis for the English Premier League (EPL) and Women’s Super League (WSL), uncovering key differences in shot predictors (e.g., lob shots, pressure, shot angle) across the two leagues
+
+- Engineered features from **StatsBomb** event-level data, including distance to goal, defenders between shot and goal, shot angle, and goalkeeper position, to support **interpretable modeling of goal probabilities**
+
+- Conducted cross-league comparisons that identified Heung-Min Son and Vivianne Miedema as the "best" goal scorers in their respective leagues; offered **scouting-relevant insights** through model-based over- and under-performance analyses for all players in the sample space
+
+- Discussed the **extensibility** of the GLMM framework to other advanced football metrics including **expected assists** (xA), **post-shot xG** (PSxG), and **expected threat** (xT), enabling player impact assessment across multiple dimensions in football analytics
+
+- Proposed model extensions such as varying-slope GLMMs and team-level random effects to account for additional hierarchy in an academic setting; discussed Bayesian alternatives for more flexible inference
+
+- Validated model interpretability and predictive capacity through **empirical comparisons** against non-hierarchical baselines; emphasized the value of **model explainability** over raw predictive accuracy for xG modeling
+
+- Highlighted key methodological **trade-offs** in applying post-shot features (PSxG vs. xG) and discussed implications for model interpretation and downstream decision-making
+
