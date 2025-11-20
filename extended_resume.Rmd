@@ -1,5 +1,5 @@
 ---
-title: 'LAST REFRESH: 9/17/2025'
+title: ''
 ---
 
 <center> <h1><b>Extended Resume</b></h1> </center>
@@ -31,7 +31,9 @@ Senior Data Scientist with 5+ years of industry experience working on fast-movin
 
 - Built a supervisor-agent architecture, where a central interface "supervsior" agent routes queries to domain-specific supervisor agents, each managing their own specialized task agents (e.g., data retrieval, document summarization, & company screening etc.)
 
-- Deployed via a Streamlit frontend enabling KPMG sales engineers & analysts to explore proprietary datasets and accelerate client and project proposal development with context-aware AI agent workflows
+- Deployed the AI framework via a Streamlit frontend enabling KPMG sales engineers & analysts to explore proprietary datasets and accelerate client and project proposal development with context-aware AI agent workflows
+
+- Applied **Latent Dirichlet Allocation (LDA)** in **Python** to perform topic modeling across large sets of transcript headlines, uncovering key topic clusters that informed the design of filter options and improved the user experience within the AI-enabled analytics dashboard
 
 **Client(s): KPMG Healthcare & Life Sciences Go-To-Market Teams**
 
