@@ -5,10 +5,11 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Online Resume"
+    - text: "Projects"
       menu:
-        - text: "Professional Experience"
-          href: extended_resume.html
+        - text: "Research"
+          href: https://scholar.google.com/citations?user=kIB_PVUAAAAJ&hl=en
+          icon: fa-google fa-lg
         - text: "Selected Projects"
           href: selected_projects.html
     - text: "About My"
@@ -35,6 +36,9 @@ navbar:
         - text: Spotify
           href: https://open.spotify.com/user/tahmeeeed14
           icon: fa-spotify fa-lg
+        - text: Google Scholar
+          href: https://scholar.google.com/citations?user=kIB_PVUAAAAJ&hl=en
+          icon: fa-google fa-lg
 
 ##    - text: "Blogs/Tutorials"
 ##      href: blogs.html

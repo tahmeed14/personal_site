@@ -1,8 +1,8 @@
 ---
-title: "selected_projects"
+title: ""
 ---
 
-<center> <h1><b>Extended Resume</b></h1> </center>
+<center> <h1><b>Selected Personal Projects</b></h1> </center>
 <center>
 <center> <h3><b>Tahmeed Tureen</b></h3> </center>
 Data Scientist - Senior Associate at [KPMG US](https://www.kpmg.us/)\newline

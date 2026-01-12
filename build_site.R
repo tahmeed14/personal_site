@@ -10,3 +10,4 @@ rmarkdown::render_site(".")
 # (2) render the blogs site
 rmarkdown::render_site("blogs")
 
+
